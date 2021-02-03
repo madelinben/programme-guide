@@ -8,7 +8,7 @@ The project's entry point is com.sabaton.Controller.HomeController.main().
 
 ## API
 
-All live programme data is obtained from [Bleb API]("http://bleb.org/tv/data/listings/").
+All live programme data is obtained from [Bleb API]("http://bleb.org/tv/data/listings/"). > "http://bleb.org/tv/data/listings/"
 
 A gap of at least 2 seconds must separate each file fetch.
  
