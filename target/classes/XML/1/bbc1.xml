@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Fri Apr  3 07:19:01 2020 -->
+<channel id="bbc1" source="XMLTV" date="08/04/2020">
+  <programme>
+<title>Breakfast</title>
+<end>0900</end>
+<desc>The latest news, sport, business and weather from the BBC's Breakfast team. Also in HD. [S]</desc>
+<start>0600</start>
+  </programme>
+  <programme>
+<title>BBC News</title>
+<end>1000</end>
+<desc>The latest national and international stories as they break. Also in HD. [S]</desc>
+<start>0900</start>
+  </programme>
+  <programme>
+<title>HealthCheck UK Live</title>
+<end>1045</end>
+<desc>8/10. Daily advice for viewers in self-isolation due to the coronavirus outbreak. Also in HD. [S]</desc>
+<start>1000</start>
+  </programme>
+  <programme>
+<title>Homes Under the Hammer</title>
+<end>1145</end>
+<desc>Two flats in Seaham in Durham, a former bank in Westhoughton near Manchester and a building with a shop and residential space in Surbiton in Surrey are sold under the hammer. Also in HD. [S]</desc>
+<start>1045</start>
+  </programme>
+  <programme>
+<end>1215</end>
+<start>1145</start>
+<desc>3/10. A team of roadworkers battle against the clock to repair one of the UK's busiest sections of road before rush hour. Also in HD. [S]</desc>
+<title>Night Force</title>
+  </programme>
+  <programme>
+<title>Bargain Hunt</title>
+<end>1300</end>
+<desc>16/32. Anita Manning presents from Hungerford, and lending a hand to the teams are Philip Serrell and Richard Madley. Anita also learns about a local festival. Also in HD. [S,AD]</desc>
+<start>1215</start>
+  </programme>
+  <programme>
+<title>BBC News</title>
+<end>1330</end>
+<start>1300</start>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<end>1345</end>
+<desc>The latest news, sport, weather and features from the South East of England. [S]</desc>
+<start>1330</start>
+<title>BBC London &amp; South East</title>
+  </programme>
+  <programme>
+<title>Doctors</title>
+<start>1345</start>
+<desc>100/196. Izzie goes solo in her campaign, while Ruhma finds herself in a sticky situation. Zara gets involved in a love triangle that turns out to be more complicated. Also in HD. [S,AD]</desc>
+<end>1410</end>
+  </programme>
+  <programme>
+<desc>3/10. Drama. Leonard Quinton is found hanging in the conservatory. When Father Brown realises that he could not have committed suicide, the search begins for a murderer. Also in HD. [S,AD]</desc>
+<start>1410</start>
+<end>1500</end>
+<title>Father Brown</title>
+  </programme>
+  <programme>
+<end>1545</end>
+<start>1500</start>
+<desc>58/70. In Somerset, Ginny Buckley helps a couple find a country home with character and charm. Also in HD. [S,AD]</desc>
+<title>Escape to the Country</title>
+  </programme>
+  <programme>
+<end>1630</end>
+<start>1545</start>
+<desc>14/20. Junk makeover show. At Woking Recycling Centre, EJ Osborne salvages an old gas meter box, a set of table and chairs and some racing tyres. Also in HD. [S]</desc>
+<title>Money for Nothing</title>
+  </programme>
+  <programme>
+<end>1715</end>
+<start>1630</start>
+<desc>23/40. Jay Blades and the team tackle a writing bureau, a pair of dancing clogs and a couple of ploughing trophies. Also in HD. [S,AD]</desc>
+<title>The Repair Shop</title>
+  </programme>
+  <programme>
+<title>Pointless</title>
+<desc>2/55. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of. Also in HD. [S]</desc>
+<start>1715</start>
+<end>1800</end>
+  </programme>
+  <programme>
+<end>1830</end>
+<start>1800</start>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+<title>BBC News at Six</title>
+  </programme>
+  <programme>
+<title>BBC London News</title>
+<desc>The latest news, sport and weather from London. [S]</desc>
+<start>1830</start>
+<end>1900</end>
+  </programme>
+  <programme>
+<start>1900</start>
+<desc>Alex Jones brings you the stories that matter from across the country. Also in HD. [S]</desc>
+<end>1930</end>
+<title>The One Show</title>
+  </programme>
+  <programme>
+<title>Coronavirus: Your Essential Update</title>
+<desc>The latest essential information about the Covid-19 outbreak. Also in HD. [S]</desc>
+<start>1930</start>
+<end>2000</end>
+  </programme>
+  <programme>
+<title>The Repair Shop</title>
+<desc>4/14. The team tackle an alabaster light shade, a piano stool, a toy bus and a pair of binoculars. Also in HD. [S]</desc>
+<start>2000</start>
+<end>2100</end>
+  </programme>
+  <programme>
+<title>MasterChef</title>
+<start>2100</start>
+<desc>20/24. The remaining seven contestants are surprised by a very special guest. Joining them in the MasterChef kitchen is one of the country's best chefs, Tom Kitchin. Also in HD. [S,AD]</desc>
+<end>2200</end>
+  </programme>
+  <programme>
+<title>BBC News at Ten</title>
+<start>2200</start>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+<end>2230</end>
+  </programme>
+  <programme>
+<end>2245</end>
+<start>2230</start>
+<desc>The latest news, sport and weather from London. [S]</desc>
+<title>BBC London News</title>
+  </programme>
+  <programme>
+<title>In My Skin</title>
+<end>2315</end>
+<start>2245</start>
+<desc>2/5. A burgeoning friendship at school is too tantalising for Bethan to walk away from. Contains very strong language. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<desc>5/8. In the absence of any other options, Eve makes a very surprising deal. Contains some violence and some upsetting scenes. Also in HD. [S,AD]</desc>
+<start>2315</start>
+<end>0000</end>
+<title>Killing Eve</title>
+  </programme>
+  <programme>
+<title>Killing Eve</title>
+<end>0040</end>
+<desc>6/8. Eve and Niko confront each other about their future. Is Niko at breaking point? Contains some scenes which some viewers may find upsetting. Also in HD. [S,AD]</desc>
+<start>0000</start>
+  </programme>
+  <programme>
+<start>0040</start>
+<desc>Detailed weather forecast. Also in HD. [S]</desc>
+<end>0045</end>
+<title>Weather for the Week Ahead</title>
+  </programme>
+  <programme>
+<title>BBC News</title>
+<end>0600</end>
+<desc>BBC One joins the BBC's rolling news channel for a night of news. Also in HD. [S]</desc>
+<start>0045</start>
+  </programme>
+  <programme>
+<title>Breakfast</title>
+<end>0900</end>
+<desc>The latest news, sport, business and weather from the BBC's Breakfast team. Also in HD. [S]</desc>
+<start>0600</start>
+  </programme>
+</channel>

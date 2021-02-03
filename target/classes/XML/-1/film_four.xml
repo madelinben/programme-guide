@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Wed Apr  1 07:22:05 2020 -->
+<channel id="film_four" source="XMLTV" date="06/04/2020">
+  <programme>
+<start>0310</start>
+<desc>Teleshopping.</desc>
+<end>0700</end>
+<title>Teleshopping</title>
+  </programme>
+  <programme>
+<desc>Teleshopping.</desc>
+<start>0700</start>
+<title>Teleshopping</title>
+<end>0800</end>
+  </programme>
+  <programme>
+<start>0800</start>
+<desc>Punk Chef Scott Garthwaite travels to Ludlow in Shropshire to cook the best of British food in front a live audience at the Ludlow Food Festival.</desc>
+<end>0830</end>
+<title>BSL Zone: Punk Chef on the Road</title>
+  </programme>
+  <programme>
+<end>1100</end>
+<title>Teleshopping</title>
+<start>0830</start>
+<desc>Teleshopping.</desc>
+  </programme>
+  <programme>
+<type>Film</type>
+<end>1240</end>
+<title>Rugrats Go Wild</title>
+<start>1100</start>
+<desc>Family animation. The children and their parents get stranded on a desert island. But help is at hand from the Thornberry family, who travel the world making nature documentaries.</desc>
+<year>2003</year>
+  </programme>
+  <programme>
+<start>1240</start>
+<desc>Oscar-nominated animation. A boy goes on a spooky and perilous magical quest to find his samurai father's lost armour and learn the truth about the events that tore his family apart.</desc>
+<year>2016</year>
+<type>Film</type>
+<end>1455</end>
+<title>Kubo and the Two Strings</title>
+  </programme>
+  <programme>
+<year>2010</year>
+<desc>Fantasy adventure starring Nicola Peltz, Jackson Rathbone and Noah Ringer. In a world that's descending into turmoil, only finding a lost Avatar can bring about harmony. Violence.</desc>
+<start>1455</start>
+<title>The Last Airbender</title>
+<type>Film</type>
+<end>1700</end>
+  </programme>
+  <programme>
+<title>Paddington</title>
+<end>1855</end>
+<type>Film</type>
+<year>2014</year>
+<desc>Part-animated family fun. Hugh Bonneville, Sally Hawkins and Nicole Kidman star in this adaptation of Michael Bond's tales of the adventures of a small bear (voiced by Ben Whishaw).</desc>
+<start>1700</start>
+  </programme>
+  <programme>
+<desc>Remake of the sci-fi classic. Alien Keanu Reeves visits Earth to tell humankind to stop destroying the planet. But when he's attacked, he decides to eradicate us instead. Violence.</desc>
+<year>2008</year>
+<start>1855</start>
+<title>The Day the Earth Stood Still</title>
+<end>2100</end>
+<type>Film</type>
+  </programme>
+  <programme>
+<year>2015</year>
+<desc>Part five of the action-thriller franchise starring Tom Cruise. The secret agents try to stop a terrorist organisation, but find themselves disbanded and hunted by the CIA. Violence.</desc>
+<start>2100</start>
+<title>Mission: Impossible - Rogue Nation</title>
+<type>Film</type>
+<end>2340</end>
+  </programme>
+  <programme>
+<end>0130</end>
+<type>Film</type>
+<title>Area 51</title>
+<start>2340</start>
+<year>2015</year>
+<desc>Sci-fi horror. Four friends attempt to break into the US Air Force base in Nevada where, they believe, the government is hiding evidence of extraterrestrial life. Strong language.</desc>
+  </programme>
+  <programme>
+<start>0130</start>
+<desc>Menacing psychodrama starring Toby Jones. An Englishman is hired to create sound effects for a horror film studio in 1970s Rome. But the job takes a heavy toll on his mental health.</desc>
+<year>2012</year>
+<end>0320</end>
+<type>Film</type>
+<title>Berberian Sound Studio</title>
+  </programme>
+  <programme>
+<start>0320</start>
+<desc>Teleshopping.</desc>
+<end>0700</end>
+<title>Teleshopping</title>
+  </programme>
+</channel>

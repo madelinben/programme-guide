@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Wed Apr  1 07:19:01 2020 -->
+<channel id="bbc1" source="XMLTV" date="06/04/2020">
+  <programme>
+<desc>The latest news, sport, business and weather from the BBC's Breakfast team. Also in HD. [S]</desc>
+<start>0600</start>
+<title>Breakfast</title>
+<end>0900</end>
+  </programme>
+  <programme>
+<title>BBC News</title>
+<end>1000</end>
+<desc>The latest national and international stories as they break. Also in HD. [S]</desc>
+<start>0900</start>
+  </programme>
+  <programme>
+<desc>6/10. Daily advice for viewers in self-isolation due to the coronavirus outbreak. Also in HD. [S]</desc>
+<start>1000</start>
+<title>HealthCheck UK Live</title>
+<end>1045</end>
+  </programme>
+  <programme>
+<desc>Dion Dublin is in Birmingham at a property with one of the smallest kitchens he has come across. Martin Roberts visits a former care home in Penmaenmawr, Wales. Also in HD. [S,AD]</desc>
+<start>1045</start>
+<title>Homes Under the Hammer</title>
+<end>1145</end>
+  </programme>
+  <programme>
+<end>1215</end>
+<title>Night Force</title>
+<start>1145</start>
+<desc>1/10. A glimpse into the lives of the army of night workers who keep Britain running while the rest of us sleep. Today, a team of vets perform surgery on a valuable horse. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<desc>Natasha Raskin Sharp presents as experts Thomas Forrester and Tim Weeks guide the teams around Southwell Racecourse before heading to auction in Derbyshire. Also in HD. [S]</desc>
+<start>1215</start>
+<title>Bargain Hunt</title>
+<end>1300</end>
+  </programme>
+  <programme>
+<end>1330</end>
+<title>BBC News at One</title>
+<start>1300</start>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<end>1345</end>
+<title>South East Today</title>
+<start>1330</start>
+<desc>The latest news, sport, weather and features from the South East of England. [S]</desc>
+  </programme>
+  <programme>
+<desc>98/196. Izzie arrives ahead of schedule, putting Daniel's plans in disarray. Zara goes to see Emma, Jasmine gets irritated at work, and Ruhma finds herself caught in the middle. Also in HD. [S,AD]</desc>
+<start>1345</start>
+<title>Doctors</title>
+<end>1410</end>
+  </programme>
+  <programme>
+<start>1410</start>
+<desc>1/10. Drama. When an ungodly man is murdered at the unveiling of a new church clock, Father Brown must find the killer before an innocent woman is sent to the gallows. Also in HD. [S,AD]</desc>
+<end>1500</end>
+<title>Father Brown</title>
+  </programme>
+  <programme>
+<desc>18/25. Alistair Appleton leads a couple in their search for a countryside home on the Staffordshire-Derbyshire border. Also in HD. [S]</desc>
+<start>1500</start>
+<title>Escape to the Country</title>
+<end>1545</end>
+  </programme>
+  <programme>
+<desc>17/20. Junk makeover show. At the recycling centre in Woking, upcycler EJ Osborne rescues an old bedroom cabinet, an old metal box and a box of wooden blocks. Also in HD. [S]</desc>
+<start>1545</start>
+<title>Money for Nothing</title>
+<end>1630</end>
+  </programme>
+  <programme>
+<title>The Repair Shop</title>
+<end>1715</end>
+<desc>21/40. Jay Blades and the team take on a set of shopkeeper's scales, a leather keepsake bag and an Egyptian table. Also in HD. [S]</desc>
+<start>1630</start>
+  </programme>
+  <programme>
+<start>1715</start>
+<desc>55/55. The quiz in which contestants try to score as few points as possible by coming up with the answers no-one else could think of. Also in HD. [S]</desc>
+<end>1800</end>
+<title>Pointless</title>
+  </programme>
+  <programme>
+<end>1830</end>
+<title>BBC News at Six</title>
+<start>1800</start>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<title>BBC London</title>
+<end>1900</end>
+<desc>The latest news, sport and weather from London. [S]</desc>
+<start>1830</start>
+  </programme>
+  <programme>
+<desc>Alex Jones brings you the stories that matter from across the country. Also in HD. [S]</desc>
+<start>1900</start>
+<title>The One Show</title>
+<end>1930</end>
+  </programme>
+  <programme>
+<title>Panorama</title>
+<end>2000</end>
+<desc>Investigative documentary. Also in HD. [S]</desc>
+<start>1930</start>
+  </programme>
+  <programme>
+<desc>Ben is taken aback by Jay's news, Vinny is gutted when he doesn't get the help he needs, and Ian revels in his latest plan. Also in HD. [S,AD]</desc>
+<start>2000</start>
+<title>EastEnders</title>
+<end>2030</end>
+  </programme>
+  <programme>
+<desc>5/10. Rob Brydon hosts the comedy panel show. Joining team captains David Mitchell and Lee Mack are Jo Brand, Emma Bunton, Jonnie Peacock and Shaun Williamson. Also in HD. [S]</desc>
+<start>2030</start>
+<title>Would I Lie to You?</title>
+<end>2100</end>
+  </programme>
+  <programme>
+<start>2100</start>
+<desc>19/24. The MasterChef semi-finals begin with a spectacular challenge as the contestants head to the Royal Navy base in Portsmouth. Also in HD. [S,AD]</desc>
+<end>2200</end>
+<title>MasterChef</title>
+  </programme>
+  <programme>
+<title>BBC News at Ten</title>
+<end>2230</end>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+<start>2200</start>
+  </programme>
+  <programme>
+<start>2230</start>
+<desc>The latest news, sport and weather from London. [S]</desc>
+<end>2245</end>
+<title>BBC London News</title>
+  </programme>
+  <programme>
+<desc>2/5. Mobeen tries to do a good deed but is left with a deadly debt that is impossible to pay. Contains strong language and adult humour. Also in HD. [S,AD]</desc>
+<start>2245</start>
+<title>Man Like Mobeen</title>
+<end>2310</end>
+  </programme>
+  <programme>
+<start>2310</start>
+<desc>1/9. Team captains Paul Merton and Ian Hislop are joined by guest host Steph McGovern and panellists Miles Jupp and Helen Lewis. Also in HD. [S]</desc>
+<end>2355</end>
+<title>Have I Got a Bit More News for You</title>
+  </programme>
+  <programme>
+<start>2355</start>
+<desc>31/36. Captains Matt Dawson and Phil Tufnell are joined by world darts champion Peter Wright, Paralympic legend Sarah Storey, footballer Dion Dublin and cricketer Steve Harmison. Also in HD. [S]</desc>
+<end>0025</end>
+<title>A Question of Sport</title>
+  </programme>
+  <programme>
+<title>Weather for the Week Ahead</title>
+<end>0030</end>
+<desc>Detailed weather forecast. Also in HD. [S]</desc>
+<start>0025</start>
+  </programme>
+  <programme>
+<desc>BBC One joins the BBC's rolling news channel for a night of news. Also in HD. [S]</desc>
+<start>0030</start>
+<title>BBC News</title>
+<end>0600</end>
+  </programme>
+  <programme>
+<start>0600</start>
+<desc>The latest news, sport, business and weather from the BBC's Breakfast team. Also in HD. [S]</desc>
+<end>0900</end>
+<title>Breakfast</title>
+  </programme>
+</channel>

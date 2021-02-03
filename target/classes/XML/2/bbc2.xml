@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Sat Apr  4 07:19:06 2020 -->
+<channel id="bbc2" source="XMLTV" date="09/04/2020">
+  <programme>
+<title>This is BBC Two</title>
+<end>0645</end>
+<desc>Highlights of programmes BBC Two.</desc>
+<start>0300</start>
+  </programme>
+  <programme>
+<desc>3/10. A team of roadworkers battle against the clock to repair one of the UK's busiest sections of road before rush hour. Also in HD. [S]</desc>
+<start>0645</start>
+<title>Night Force</title>
+<end>0715</end>
+  </programme>
+  <programme>
+<end>0800</end>
+<title>The Repair Shop</title>
+<desc>23/40. Jay Blades and the team tackle a writing bureau, a pair of dancing clogs and a couple of ploughing trophies. Also in HD. [S]</desc>
+<start>0715</start>
+  </programme>
+  <programme>
+<desc>Amid the gardens and the great glasshouse of the National Botanic Garden of Wales, finds include a Chinese box that Gregory Peck tried to buy and a robotic elephant. Also in HD. [S,SL]</desc>
+<start>0800</start>
+<title>Antiques Roadshow</title>
+<end>0900</end>
+  </programme>
+  <programme>
+<end>1000</end>
+<title>The Bear Family and Me</title>
+<start>0900</start>
+<desc>1/3. Series following wildlife cameraman Gordon Buchanan as he spends a year with a family of wild black bears. Before he can start filming, Gordon must earn the bears' trust. Also in HD. [S,AD]</desc>
+  </programme>
+  <programme>
+<title>BBC News</title>
+<end>1300</end>
+<desc>Twenty-four hours a day, the latest national and international stories as they break. Also in HD. [S]</desc>
+<start>1000</start>
+  </programme>
+  <programme>
+<end>1345</end>
+<title>Curiosity</title>
+<start>1300</start>
+<desc>4/15. Paul Martin presents the ultimate test in vintage and collectables. With £1,000 at stake in the Curiosity Shop, who will curate the most valuable collection? Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<title>Passover: Why Is This Night...</title>
+<end>1415</end>
+<start>1345</start>
+<desc>...Different?. A look at the meaning of Passover as Giles Coren helps host a special seder. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<desc>20/20. Recipes from some of the BBC's best-loved chefs. Ainsley serves up a family-sized slab of chocolate recipes guaranteed to please the nation's chocoholics. Also in HD. [S]</desc>
+<start>1415</start>
+<title>Best Dishes Ever</title>
+<end>1445</end>
+  </programme>
+  <programme>
+<desc>A retrospective look at television appearances made over the years by Alec Guinness, capturing the milestones and highlights of his life and career. Also in HD. [S]</desc>
+<start>1445</start>
+<title>Alec Guinness: Talking Pictures</title>
+<end>1525</end>
+  </programme>
+  <programme>
+<type>Film</type>
+<desc>Classic Ealing comedy about the mayhem that ensues when a whisky-laden ship runs aground off the coast of the Outer Hebrides during the Second World War. Also in HD. [1948] [S]</desc>
+<start>1525</start>
+<end>1645</end>
+<title>Whisky Galore!</title>
+  </programme>
+  <programme>
+<start>1645</start>
+<desc>Jeremy Vine hosts a general knowledge quiz featuring the greatest quiz team in Britain. Also in HD. [S]</desc>
+<title>Eggheads</title>
+<end>1715</end>
+  </programme>
+  <programme>
+<start>1715</start>
+<desc>50/60. Catherine Southon enthuses about a silver bowl. Also in HD. [S]</desc>
+<end>1800</end>
+<title>Flog It!</title>
+  </programme>
+  <programme>
+<desc>4/50. Naga Munchetty, Jordan Stephens, Sally Lindsay and David O'Doherty take on a series of challenging quiz games selected by the host, teatime quiz legend Richard Osman. Also in HD. [S]</desc>
+<start>1800</start>
+<end>1830</end>
+<title>Richard Osman's House of Games</title>
+  </programme>
+  <programme>
+<start>1830</start>
+<desc>9/15. How can keepers stop Red the tiger's terrifying attacks on visitors' cars? Also in HD. [S]</desc>
+<title>Animal Park</title>
+<end>1900</end>
+  </programme>
+  <programme>
+<start>1900</start>
+<desc>Paul Rose explores the 79 miles of the Yorkshire Wolds Way. He gets a unique view of this stretch of chalk downland and gets a special invitation to a military base. Also in HD. [S,AD]</desc>
+<end>1930</end>
+<title>Yorkshire Wolds Way with Paul Rose</title>
+  </programme>
+  <programme>
+<start>1930</start>
+<desc>5/6. Paul Murton journeys through the Borders, discovers the lost lochs of Edinburgh and then travels to Fife and Loch Leven in search of Mary, Queen of Scots. Also in HD. [S]</desc>
+<end>2000</end>
+<title>Grand Tours of Scotland's Lochs</title>
+  </programme>
+  <programme>
+<end>2100</end>
+<title>Great British Menu</title>
+<desc>The remaining chefs cook mains and desserts, including a Hogwarts feast inspired by Harry Potter and an Each Peach Pear Plum dessert. Also in HD. [S]</desc>
+<start>2000</start>
+  </programme>
+  <programme>
+<end>2200</end>
+<title>Coronavirus Special</title>
+<desc>Investigating the scientific facts and figures behind the biggest public health crisis in living memory as a new coronavirus takes an unprepared world by storm. Also in HD. [S]</desc>
+<start>2100</start>
+  </programme>
+  <programme>
+<desc>6/6. Joe Lycett hosts as he introduces Ivo Graham and Phil Wang to the stage. Contains some strong language. Also in HD. [S]</desc>
+<start>2200</start>
+<end>2245</end>
+<title>Live at the Apollo</title>
+  </programme>
+  <programme>
+<desc>The day's important national and international news stories with Kirsty Wark. Also in HD. [S]</desc>
+<start>2245</start>
+<title>Newsnight</title>
+<end>2325</end>
+  </programme>
+  <programme>
+<desc>Weather bulletin. Also in HD. [S]</desc>
+<start>2325</start>
+<end>2330</end>
+<title>Weather</title>
+  </programme>
+  <programme>
+<end>0030</end>
+<title>The Countess and the Russian...</title>
+<desc>...Billionaire. Inside the secret world of Sergei Pugachev, a Russian oligarch, and his British partner Countess Alexandra Tolstoy, mother to their three children. Also in HD. [S,AD]</desc>
+<start>2330</start>
+  </programme>
+  <programme>
+<end>0130</end>
+<title>MasterChef</title>
+<start>0030</start>
+<desc>11/24. The fourth week of heats continues with six more contestants vying to win an apron by cooking their signature dish. Also in HD. [S,AD,SL]</desc>
+  </programme>
+  <programme>
+<title>MasterChef</title>
+<end>0200</end>
+<start>0130</start>
+<desc>12/24. It's the fourth quarter-final, with six heat winners returning to fight for a place in Knockout Week. Also in HD. [S,AD,SL]</desc>
+  </programme>
+  <programme>
+<title>Hairy Bikers' Mediterranean...</title>
+<end>0300</end>
+<start>0200</start>
+<desc>...Adventure. 3/6. The independent spirit of the people shines through in Si and Dave's Corsican adventure. Also in HD. [S,AD,SL]</desc>
+  </programme>
+  <programme>
+<title>This is BBC Two</title>
+<end>0630</end>
+<start>0300</start>
+<desc>Highlights of programmes BBC Two.</desc>
+  </programme>
+</channel>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Sat Apr  4 07:22:26 2020 -->
+<channel id="itv1_hd" source="Sky" date="09/04/2020">
+  <programme>
+<desc>Breakfast show featuring the latest news, sport and weather.</desc>
+<start>0600</start>
+<end>0900</end>
+<title>Good Morning Britain</title>
+  </programme>
+  <programme>
+<start>0900</start>
+<desc>Lorraine Kelly joins the GMB team for an extra hour of Good Morning Britain, featuring the latest news, sport and weather.</desc>
+<end>1000</end>
+<title>Good Morning Britain with Lorraine</title>
+  </programme>
+  <programme>
+<desc>The This Morning team bring you top celebrity guests, lifestyle advice, stunning competitions and award-winning features, all topped off with a sprinkle of humour for good measure.</desc>
+<start>1000</start>
+<title>This Morning</title>
+<end>1230</end>
+  </programme>
+  <programme>
+<title>Loose Women</title>
+<end>1330</end>
+<start>1230</start>
+<desc>Andrea McLean, Kelle Bryan, Carol McGiffin and Kaye Adams discuss the invasive nature of modern technology and whether phones and laptops are used to spy on their owners.</desc>
+  </programme>
+  <programme>
+<title>ITV Lunchtime News</title>
+<end>1355</end>
+<start>1330</start>
+<desc>The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.</desc>
+  </programme>
+  <programme>
+<end>1400</end>
+<title>ITV News London</title>
+<desc>The latest news and weather from London and the South East.</desc>
+<start>1355</start>
+  </programme>
+  <programme>
+<start>1400</start>
+<desc>...Highlands. Jersey: James is joined by pal and Michelin-starred chef Mark Jordan, and together they set out to explore the delights of Jersey aboard mini motor bikes. S1 Ep4</desc>
+<end>1500</end>
+<title>New: James Martin's Islands to...</title>
+  </programme>
+  <programme>
+<start>1500</start>
+<subtitle>A Tribe Called Questions</subtitle>
+<desc>A team of five family and friends play to take home a big cash prize by answering a series of Top 10 list questions. Quiz show hosted by Warwick Davis. S4 Ep16</desc>
+<end>1600</end>
+<title>Tenable</title>
+  </programme>
+  <programme>
+<start>1600</start>
+<desc>Ben Shephard hosts the quiz show in which four players take on an extraordinary machine in the hope of winning the 10,000 pound jackpot. S9 Ep24</desc>
+<title>Tipping Point</title>
+<end>1700</end>
+  </programme>
+  <programme>
+<title>The Chase</title>
+<end>1800</end>
+<start>1700</start>
+<desc>Quiz show hosted by Bradley Walsh. Four contestants must pit their wits against the Chaser, a ruthless quiz genius determined to stop them winning the cash prize. S10 Ep49</desc>
+  </programme>
+  <programme>
+<end>1830</end>
+<title>ITV News London</title>
+<desc>The latest news and weather from London and the South East.</desc>
+<start>1800</start>
+  </programme>
+  <programme>
+<desc>National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.</desc>
+<start>1830</start>
+<end>1900</end>
+<title>ITV Evening News</title>
+  </programme>
+  <programme>
+<desc>A selection of hilarious home videos sent in by members of the public and presented in a much-loved format to entertain people of all ages. S30 Ep18</desc>
+<start>1900</start>
+<end>1930</end>
+<title>New: You've Been Framed!</title>
+  </programme>
+  <programme>
+<desc>...Jobs? Tonight. As the coronavirus epidemic sweeps its way across Britain, affecting jobs and the economy, Tonight asks just how safe are our jobs?</desc>
+<start>1930</start>
+<title>Coronavirus: How Safe are our...</title>
+<end>2000</end>
+  </programme>
+  <programme>
+<start>2000</start>
+<desc>...Adventure. Journeying from Brisbane to Cairns aboard the Spirit of Queensland, Griff tries desperately to dodge all the things trying to kill him in the country's deep north. Ep3</desc>
+<end>2030</end>
+<title>New: Griff's Great Australian...</title>
+  </programme>
+  <programme>
+<start>2030</start>
+<desc>56-year-old Julie is desperate to pass on her third attempt, even though she hasn't driven in more than 24 years, and make-up artist Bradley serenades his driving examiner. S1 Ep2</desc>
+<end>2100</end>
+<title>New: Secrets of the Driving Test</title>
+  </programme>
+  <programme>
+<title>New: Gordon, Gino and Fred:...</title>
+<end>2200</end>
+<desc>...American Road Trip. City Slickers: The boys are in America and Gordon wants to show USA virgins Fred and Gino that the food and fresh produce is off the chart. S2 Ep2</desc>
+<start>2100</start>
+  </programme>
+  <programme>
+<desc>ITV News at Ten provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+<start>2200</start>
+<title>ITV News at Ten</title>
+<end>2230</end>
+  </programme>
+  <programme>
+<end>2245</end>
+<title>ITV News London</title>
+<desc>The latest news and weather from London and the South East.</desc>
+<start>2230</start>
+  </programme>
+  <programme>
+<title>Return to Belsen</title>
+<end>2340</end>
+<desc>Seventy five years after its liberation by British troops, Jonathan Dimbleby returns to the site of the Bergen-Belsen concentration camp in Germany.</desc>
+<start>2245</start>
+  </programme>
+  <programme>
+<title>Olivier Awards: The..</title>
+<end>0040</end>
+<start>2340</start>
+<desc>...Greatest Moments. Host Jason Manford takes a look back at the stand out moments of the biggest night in British theatre.</desc>
+  </programme>
+  <programme>
+<desc>In a last-ditch bid for her freedom, Laura takes drastic measures to hold Oliver to account, and the truth of what happened on the morning Andrew died is finally revealed. S2 Ep6</desc>
+<start>0040</start>
+<end>0130</end>
+<title>Liar</title>
+  </programme>
+  <programme>
+<desc>Join Ideal World on ITV for some of the best offers and products on TV. To see more go to www.idealworld.tv.</desc>
+<start>0130</start>
+<end>0300</end>
+<title>Ideal World Fitness at Home</title>
+  </programme>
+  <programme>
+<start>0300</start>
+<desc>...Jobs? Tonight. As the coronavirus epidemic sweeps its way across Britain, affecting jobs and the economy, Tonight asks just how safe are our jobs?</desc>
+<end>0325</end>
+<title>Coronavirus: How Safe are our...</title>
+  </programme>
+  <programme>
+<end>0505</end>
+<title>ITV Nightscreen</title>
+<start>0325</start>
+<desc>Text-based information service.</desc>
+  </programme>
+  <programme>
+<desc>Arbitration show in which real small-claims cases are adjudicated over within a studio courtroom by Judge Robert Rinder. [SL] S8 Ep20</desc>
+<start>0505</start>
+<end>0600</end>
+<title>Judge Rinder</title>
+  </programme>
+  <programme>
+<end>0900</end>
+<title>Good Morning Britain</title>
+<start>0600</start>
+<desc>Breakfast show featuring the latest news, sport and weather.</desc>
+  </programme>
+</channel>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Sat Apr  4 07:21:57 2020 -->
+<channel id="e4" source="XMLTV" date="09/04/2020">
+  <programme>
+<desc>When Jeff's snoring finally becomes unbearable, Audrey decides that they should sleep in separate bedrooms, but Jeff soon takes advantage of the situation.</desc>
+<start>0600</start>
+<subtitle>Flirting with Disaster</subtitle>
+<title>Rules of Engagement</title>
+<end>0630</end>
+  </programme>
+  <programme>
+<title>Rules of Engagement</title>
+<end>0700</end>
+<desc>Audrey's sister Barbara has problems in her marriage and turns to her sibling for help, but while she is around, Russell tries his hardest to woo her.</desc>
+<subtitle>Audrey's Sister</subtitle>
+<start>0630</start>
+  </programme>
+  <programme>
+<end>0730</end>
+<title>How I Met Your Mother</title>
+<desc>Marshall's decision to quit his job at the bank and take a volunteer position at an environmental organisation affects the whole gang. (S6 Ep20/24)</desc>
+<start>0700</start>
+<subtitle>The Exploding Meatball Sub</subtitle>
+  </programme>
+  <programme>
+<title>How I Met Your Mother</title>
+<end>0800</end>
+<start>0730</start>
+<subtitle>Hopeless</subtitle>
+<desc>Barney is determined to show his dad that it was a mistake to have given up his former life of wild partying, drinking and sleeping around. (S6 Ep21/24)</desc>
+  </programme>
+  <programme>
+<title>Melissa &amp; Joey</title>
+<end>0830</end>
+<subtitle>Up Close and Personal</subtitle>
+<start>0800</start>
+<desc>When a reporter doing a profile on Mel discovers she has a male nanny working for her, the focus of the story shifts onto Joe. (S1 Ep7/30)</desc>
+  </programme>
+  <programme>
+<title>Melissa &amp; Joey</title>
+<end>0900</end>
+<desc>Mel agrees to participate in a local Dancing with the Stars-themed charity event to raise money for the at-risk kids that Lennox tutors. (S1 Ep8/30)</desc>
+<subtitle>Dancing with the Stars of Toledo</subtitle>
+<start>0830</start>
+  </programme>
+  <programme>
+<end>0930</end>
+<title>Mike &amp; Molly</title>
+<subtitle>Three Girls and an Urn</subtitle>
+<start>0900</start>
+<desc>Molly meets the best buddy of her dreams when Peggy's childhood friend Kay comes to town for a visit, but Peggy isn't keen on sharing. (S4 Ep14)</desc>
+  </programme>
+  <programme>
+<desc>Molly aims to win some extra cash when she and the girls head to a riverboat casino for the weekend. Mike and Vince try to enjoy some college basketball. (S4 Ep15)</desc>
+<start>0930</start>
+<subtitle>The Dice Lady Cometh</subtitle>
+<end>1000</end>
+<title>Mike &amp; Molly</title>
+  </programme>
+  <programme>
+<title>The Big Bang Theory</title>
+<end>1030</end>
+<start>1000</start>
+<subtitle>The Pants Alternative</subtitle>
+<desc>Sheldon has been awarded a prestigious prize but is scared of collecting the award at a ceremony because he knows he'll have to make a speech. (S3 Ep18/23)</desc>
+  </programme>
+  <programme>
+<title>The Big Bang Theory</title>
+<end>1100</end>
+<desc>Leonard tells Penny that he loves her. The gang go bowling and find that Sheldon's enemy Wil Wheaton is playing in the opposing team. (S3 Ep19/23)</desc>
+<start>1030</start>
+<subtitle>The Wheaton Recurrence</subtitle>
+  </programme>
+  <programme>
+<end>1130</end>
+<title>The Goldbergs</title>
+<start>1100</start>
+<subtitle>The Beverly Goldberg Cookbook</subtitle>
+<desc>Beverly and Adam appear on a mother-and-son cookery show on public access TV. Barry ruins his college letter of recommendation. (S6 Ep18/23)</desc>
+  </programme>
+  <programme>
+<desc>Adam is thrilled when he is asked to design his own video game for a school project. Beverly frets that Pops is too keen on gambling. (S6 Ep19)</desc>
+<subtitle>Eight-bit Goldbergs</subtitle>
+<start>1130</start>
+<end>1200</end>
+<title>The Goldbergs</title>
+  </programme>
+  <programme>
+<start>1200</start>
+<subtitle>Halloween IV</subtitle>
+<desc>On Halloween night, the squad members follow precinct tradition and compete for the title of Ultimate Detective Slash Genius. (S4 Ep5/22)</desc>
+<title>Brooklyn Nine-Nine</title>
+<end>1230</end>
+  </programme>
+  <programme>
+<desc>When Pimento and Diaz decide to tie the knot, the squad members try to prepare the perfect wedding under Santiago's careful direction. (S4 Ep6/22)</desc>
+<subtitle>Monster in the Closet</subtitle>
+<start>1230</start>
+<title>Brooklyn Nine-Nine</title>
+<end>1300</end>
+  </programme>
+  <programme>
+<start>1300</start>
+<subtitle>The Relationship Diremption</subtitle>
+<desc>Sheldon wonders whether he's wasting his time with his study of String Theory. Raj and Emily go on a double date with Howard and Bernadette. (S7 Ep20/24)</desc>
+<end>1330</end>
+<title>The Big Bang Theory</title>
+  </programme>
+  <programme>
+<title>The Big Bang Theory</title>
+<end>1400</end>
+<desc>Penny and Leonard distract Sheldon from his career problems by reinstating Anything Can Happen Thursday. Raj asks for Howard's advice. (S7 Ep21/24)</desc>
+<start>1330</start>
+<subtitle>The Anything Can Happen Recurrence</subtitle>
+  </programme>
+  <programme>
+<subtitle>Toledo's Next Top Model</subtitle>
+<start>1400</start>
+<desc>Lennox seeks Mel's permission when she is asked to become a model. Mel isn't keen on the idea until she finds out how much Lennox could earn. (S1 Ep17/30)</desc>
+<end>1430</end>
+<title>Melissa &amp; Joey</title>
+  </programme>
+  <programme>
+<title>Melissa &amp; Joey</title>
+<end>1500</end>
+<desc>When Mel's cousin Emily gets engaged to her girlfriend Bianca, Mel plans their wedding, but it seems one of the brides-to-be has her eye on somebody else. (S1 Ep18/30)</desc>
+<start>1430</start>
+<subtitle>The Mel Word</subtitle>
+  </programme>
+  <programme>
+<title>Mike &amp; Molly</title>
+<end>1530</end>
+<subtitle>Gone Cheatin'</subtitle>
+<start>1500</start>
+<desc>Mike and the guys prepare for their annual fishing trip, but the dynamic changes when Carl invites Victoria along, much to Mike's dismay. (S5 Ep4)</desc>
+  </programme>
+  <programme>
+<desc>Molly's work on numerous drafts of her book begins to annoy Mike and the rest of the family as the project never gets any closer to completion. (S5 Ep5)</desc>
+<subtitle>Molly's Neverending Story</subtitle>
+<start>1530</start>
+<end>1600</end>
+<title>Mike &amp; Molly</title>
+  </programme>
+  <programme>
+<start>1600</start>
+<subtitle>The Ring</subtitle>
+<desc>An infuriated Beverly confronts her husband when she discovers that her engagement ring is the same one that Murray gave to his former fiancée. (S1 Ep5/23)</desc>
+<title>The Goldbergs</title>
+<end>1630</end>
+  </programme>
+  <programme>
+<title>The Goldbergs</title>
+<end>1700</end>
+<desc>Adam abandons Pops at Halloween to go trick-or-treating with a group of cool new friends who are really up to no good. (S1 Ep6/23)</desc>
+<subtitle>Who Are You Going to Telephone?</subtitle>
+<start>1630</start>
+  </programme>
+  <programme>
+<end>1730</end>
+<title>Brooklyn Nine-Nine</title>
+<desc>Peralta and Boyle go to extremes to catch a bike thief. Diaz soothes Jeffords' ego after a professional setback. Santiago spends time with Holt. (S4 Ep15/22)</desc>
+<subtitle>The Last Ride</subtitle>
+<start>1700</start>
+  </programme>
+  <programme>
+<title>Brooklyn Nine-Nine</title>
+<end>1800</end>
+<subtitle>Moo Moo</subtitle>
+<start>1730</start>
+<desc>Jeffords aims to file a complaint against a fellow police officer who stops him in his own neighbourhood while he's off duty, but Holt has other ideas. (S4 Ep16/22)</desc>
+  </programme>
+  <programme>
+<end>1830</end>
+<title>The Big Bang Theory</title>
+<desc>Sheldon and Raj see if they could survive a dark-matter research expedition in a salt mine by simulating the conditions in a steam tunnel. (S8 Ep6/24)</desc>
+<subtitle>The Expedition Approximation</subtitle>
+<start>1800</start>
+  </programme>
+  <programme>
+<desc>A smitten doctor turns up at Penny's door after her flirtatious sales techniques on behalf of the pharmaceutical company work too well. (S8 Ep7/24)</desc>
+<subtitle>The Misinterpretation Agitation</subtitle>
+<start>1830</start>
+<end>1900</end>
+<title>The Big Bang Theory</title>
+  </programme>
+  <programme>
+<title>Hollyoaks Favourites</title>
+<end>1930</end>
+<desc>Former Hollyoaks star Kieron Richardson revisits the soap's classic villains. Has Lindsey the Gloved Hand Killer met her match in Silas Blissett?</desc>
+<start>1900</start>
+  </programme>
+  <programme>
+<end>2000</end>
+<title>New: Man with a Plan</title>
+<start>1930</start>
+<desc>Brand new series - King for a Day: Adam is determined to figure out what Andi's hiding when he discovers she's been keeping secrets from him for his own good. (S2 Ep17)</desc>
+  </programme>
+  <programme>
+<desc>Brand new series - A Boyfriend's Ex-Wife and a Good Luck Head Rub: Meemaw meets Dale's ex-wife, June. Sheldon is forced to work on a group project with reluctant college students. (S3 Ep15)</desc>
+<start>2000</start>
+<end>2030</end>
+<title>Young Sheldon</title>
+  </programme>
+  <programme>
+<title>New: Young Sheldon</title>
+<end>2100</end>
+<start>2030</start>
+<desc>Brand new series - Pasadena: Sheldon visits CalTech for the very first time. Also, Georgie is furious when Mary listens in on a phone call with his girlfriend. (S3 Ep16)</desc>
+  </programme>
+  <programme>
+<start>2100</start>
+<desc>Brand new series - The Jimmy Jab Games: Competitive juices are flowing as Jake and the squad compete in the second Jimmy Jab Games. (S7 Ep4)</desc>
+<end>2130</end>
+<title>New: Brooklyn Nine-Nine</title>
+  </programme>
+  <programme>
+<title>New: Maxxx</title>
+<end>2200</end>
+<start>2130</start>
+<desc>Brand new series - House Party: Team Maxxx get an exclusive invite to one of Don's drug and sex-fuelled music industry parties. Can they turn on the charm and bag Maxxx a record deal? (Ep2)</desc>
+  </programme>
+  <programme>
+<title>Duncanville</title>
+<end>2230</end>
+<start>2200</start>
+<subtitle>Undacuva Mutha</subtitle>
+<desc>Animated comedy. In hopes of getting a promotion, Annie tries to fill her parking ticket quota for the month. (Ep3)</desc>
+  </programme>
+  <programme>
+<end>2300</end>
+<title>Rick and Morty [adult swim]</title>
+<desc>Rick is furious to find a secret toilet facility in an idyllic dimension that he's built for his own use has been invaded by an alien. (S4 Ep2)</desc>
+<start>2230</start>
+<subtitle>The Old Man and the Seat</subtitle>
+  </programme>
+  <programme>
+<title>New: Mr. Pickles [adult swim]</title>
+<end>2315</end>
+<start>2300</start>
+<desc>Brand new series: Shövenpucker: With a metal thief loose in Old Town, Tommy and Mr Pickles seek the help of an old superhero, who they come to find has a strange addiction. (S2 Ep4/10)</desc>
+  </programme>
+  <programme>
+<end>2330</end>
+<title>New: Robot Chicken [adult swim]</title>
+<desc>Brand new series - Rebel Appliance: A dad has an uncomfortable talk with his daughter about the birds and the bees. The Robot Chicken Nerd takes a trip into The Game of Thrones. (S7 Ep4/20)</desc>
+<start>2315</start>
+  </programme>
+  <programme>
+<end>0000</end>
+<title>Rick and Morty [adult swim]</title>
+<subtitle>Close Rick-Counters of the Rick Kind</subtitle>
+<start>2330</start>
+<desc>When 27 Ricks from alternate dimensions are murdered and their respective Mortys are kidnapped, Rick is framed for committing the crimes. (S1 Ep10/11)</desc>
+  </programme>
+  <programme>
+<desc>Raj's honesty about his past comes back to haunt him when his girlfriend Emily gives Penny the cold shoulder. The guys consider an investment. (S8 Ep4/24)</desc>
+<subtitle>The Hook-Up Reverberation</subtitle>
+<start>0000</start>
+<title>The Big Bang Theory</title>
+<end>0030</end>
+  </programme>
+  <programme>
+<end>0100</end>
+<title>The Big Bang Theory</title>
+<subtitle>The Focus Attenuation</subtitle>
+<start>0030</start>
+<desc>The guys attempt to invent something of scientific importance, but only come up with new and enjoyable ways to procrastinate. (S8 Ep5/24)</desc>
+  </programme>
+  <programme>
+<start>0100</start>
+<desc>What do Britain's sharpest armchair critics think of Jamie's Quick and Easy Food, Our Planet, Britain's Got Talent, Line of Duty, Naked Beach and the News? (S13 Ep9) [SL]</desc>
+<title>Gogglebox</title>
+<end>0200</end>
+  </programme>
+  <programme>
+<start>0200</start>
+<desc>Brand new series - The Jimmy Jab Games: Competitive juices are flowing as Jake and the squad compete in the second Jimmy Jab Games. (S7 Ep4)</desc>
+<end>0225</end>
+<title>Brooklyn Nine-Nine</title>
+  </programme>
+  <programme>
+<start>0225</start>
+<desc>Brand new series - House Party: Team Maxxx get an exclusive invite to one of Don's drug and sex-fuelled music industry parties. Can they turn on the charm and bag Maxxx a record deal? (Ep2)</desc>
+<title>Maxxx</title>
+<end>0255</end>
+  </programme>
+  <programme>
+<end>0320</end>
+<title>The Big Bang Theory</title>
+<desc>Sheldon has been awarded a prestigious prize but is scared of collecting the award at a ceremony because he knows he'll have to make a speech. (S3 Ep18/23)</desc>
+<start>0255</start>
+<subtitle>The Pants Alternative</subtitle>
+  </programme>
+  <programme>
+<desc>Leonard tells Penny that he loves her. The gang go bowling and find that Sheldon's enemy Wil Wheaton is playing in the opposing team. (S3 Ep19/23)</desc>
+<subtitle>The Wheaton Recurrence</subtitle>
+<start>0320</start>
+<end>0345</end>
+<title>The Big Bang Theory</title>
+  </programme>
+  <programme>
+<title>How I Met Your Mother</title>
+<end>0410</end>
+<start>0345</start>
+<subtitle>The Exploding Meatball Sub</subtitle>
+<desc>Marshall's decision to quit his job at the bank and take a volunteer position at an environmental organisation affects the whole gang. (S6 Ep20/24)</desc>
+  </programme>
+  <programme>
+<subtitle>Hopeless</subtitle>
+<start>0410</start>
+<desc>Barney is determined to show his dad that it was a mistake to have given up his former life of wild partying, drinking and sleeping around. (S6 Ep21/24)</desc>
+<title>How I Met Your Mother</title>
+<end>0435</end>
+  </programme>
+  <programme>
+<desc>When Jeff's snoring finally becomes unbearable, Audrey decides that they should sleep in separate bedrooms, but Jeff soon takes advantage of the situation.</desc>
+<start>0435</start>
+<subtitle>Flirting with Disaster</subtitle>
+<end>0500</end>
+<title>Rules of Engagement</title>
+  </programme>
+  <programme>
+<end>0600</end>
+<title>Rules of Engagement</title>
+<desc>Audrey's sister Barbara has problems in her marriage and turns to her sibling for help, but while she is around, Russell tries his hardest to woo her.</desc>
+<start>0500</start>
+<subtitle>Audrey's Sister</subtitle>
+  </programme>
+  <programme>
+<subtitle>Guy Code</subtitle>
+<start>0600</start>
+<desc>A puzzled Audrey learns all about the mysterious 'guy code' when Jeff decides it's time to share a juicy secret about a new friend with her.</desc>
+<end>0630</end>
+<title>Rules of Engagement</title>
+  </programme>
+</channel>

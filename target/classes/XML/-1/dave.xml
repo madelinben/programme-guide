@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Wed Apr  1 07:21:45 2020 -->
+<channel id="dave" source="XMLTV" date="06/04/2020">
+  <programme>
+<title>Teleshopping</title>
+<end>0710</end>
+<desc>Shopping from Home.</desc>
+<start>0600</start>
+  </programme>
+  <programme>
+<start>0710</start>
+<subtitle>Nashville</subtitle>
+<desc>Jordan Andino heads to Nashville. He visits a late night hangout built in a tree, where the chef Jason Zygmont brings his inventive flair to simple classics. S1 Ep8</desc>
+<end>0735</end>
+<title>Late Nite Eats</title>
+  </programme>
+  <programme>
+<start>0735</start>
+<subtitle>Charleston</subtitle>
+<desc>Jordan Andino heads to Charleston, where he begins his visit at one of the city's taprooms. Chef Stacy reveals the secret behind his mouthwatering shrimp and grits. S1 Ep9</desc>
+<end>0800</end>
+<title>Late Nite Eats</title>
+  </programme>
+  <programme>
+<title>American Pickers</title>
+<end>0900</end>
+<desc>Best of: Road to Restoration: Mike Wolfe and Frank Fritz make good on a promise to restore a 1935 Auburn and take the original owners for a ride. S12 Ep22</desc>
+<start>0800</start>
+  </programme>
+  <programme>
+<end>0930</end>
+<title>Storage Hunters UK</title>
+<start>0900</start>
+<subtitle>Bentwaters</subtitle>
+<desc>Fierce bidding wars abound as the hit reality show crosses the Atlantic. The contents of some old army bunkers could mean a big windfall. A vintage box rouses Rupert. S1 Ep3</desc>
+  </programme>
+  <programme>
+<subtitle>Perth</subtitle>
+<desc>Auction experts compete for storage lots in the cut-throat reality show! The chance of winning a car in a blind auction drives Heavy D and the gang into a bidding frenzy. S1 Ep4</desc>
+<start>0930</start>
+<title>Storage Hunters UK</title>
+<end>1000</end>
+  </programme>
+  <programme>
+<subtitle>Key Largo</subtitle>
+<desc>Eddie Hall lands in Florida Keys to attempt a conch-fritter eating record, do some serious big-game fishing and try what's billed as the best Key Lime Pie on earth. S1 Ep1</desc>
+<start>1000</start>
+<title>Eddie Eats America</title>
+<end>1030</end>
+  </programme>
+  <programme>
+<end>1100</end>
+<title>Eddie Eats America</title>
+<start>1030</start>
+<desc>Eddie squares up to the fearsome Mac &amp; Cheese Challenge at Brooklyn's Mac Shack - which weighs in at more than two kilograms and nearly 7,000 calories of pasta, cheese and sauce. S1 Ep2</desc>
+<subtitle>Brooklyn</subtitle>
+  </programme>
+  <programme>
+<desc>Motoring news and controversial views. Jeremy drives the smallest car ever made and Richard races a Bugatti Veyron against the RAF's Typhoon jet fighter. Ronnie Wood guests. S10 Ep3</desc>
+<start>1100</start>
+<title>Top Gear</title>
+<end>1200</end>
+  </programme>
+  <programme>
+<title>Red Bull Soapbox Race</title>
+<end>1300</end>
+<subtitle>Mumbai</subtitle>
+<desc>The wacky racing series that Isaac Newton would surely approve of: no engines, just gravity! Amateur teams descend on Mumbai to race their homemade soapboxes. S4 Ep2</desc>
+<start>1200</start>
+  </programme>
+  <programme>
+<desc>The boys' competitive streak rears its head as they race from Wembley to Milan. Clarkson is in a Shelby Mustang GT500, with Hammond and May on the train. Amy MacDonald guests. S19 Ep3</desc>
+<start>1300</start>
+<title>Top Gear</title>
+<end>1400</end>
+  </programme>
+  <programme>
+<start>1400</start>
+<desc>A look back at all that Top Gear has tried and failed to accomplish, including spectacular fails, mixing shorter, one-off catastrophes with longer, more developed failures. S1 Ep1</desc>
+<end>1500</end>
+<title>Top Gear: Top Fails</title>
+  </programme>
+  <programme>
+<desc>A look back at all that Top Gear has tried and failed to accomplish, including spectacular fails, mixing shorter, one-off catastrophes with longer, more developed failures. S1 Ep2</desc>
+<start>1500</start>
+<title>Top Gear: Top Fails</title>
+<end>1600</end>
+  </programme>
+  <programme>
+<start>1600</start>
+<desc>Jeremy Clarkson and his fellow petrolheads return with another packed edition of the iconic motoring show. David Tennant swaps the Tardis for a Chevrolet Lacetti on the test track. S10 Ep10</desc>
+<end>1700</end>
+<title>Top Gear</title>
+  </programme>
+  <programme>
+<end>1800</end>
+<title>Top Gear</title>
+<start>1700</start>
+<desc>The controversy-courting motoring magazine. Jeremy Clarkson subjects the Skoda Yeti to a thorough road test, while James May visits the test track in the insane Aerial Atom V8. S16 Ep2</desc>
+  </programme>
+  <programme>
+<start>1800</start>
+<subtitle>The Last Supper</subtitle>
+<desc>Roisin Conaty and Frank Skinner are among the comedians at the mercy of Greg Davies, who sets them some batty challenges - including playing golf with eggs. S1 Ep6</desc>
+<end>1900</end>
+<title>Taskmaster</title>
+  </programme>
+  <programme>
+<start>1900</start>
+<desc>Host Rob Brydon joins David Mitchell and Lee Mack - plus guests Fern Britton, Richard E Grant and Sanjeev Bhaskar - for the panel show that tries to discern fact from fiction. S4 Ep1</desc>
+<end>1940</end>
+<title>Would I Lie to You?</title>
+  </programme>
+  <programme>
+<start>1940</start>
+<desc>Rob Brydon hosts the jocular panel show about truth-bending and lie-telling, with David Mitchell and Lee Mack and guests Jason Manford, Ruth Jones, Jack Dee and Peter Serafinowicz. S4 Ep2</desc>
+<end>2020</end>
+<title>Would I Lie to You?</title>
+  </programme>
+  <programme>
+<end>2100</end>
+<title>Room 101</title>
+<start>2020</start>
+<desc>Jokester judge Frank Skinner asks Dragon's Den's Hilary Devey, comic Alistair McGowan and singer Josh Groban to vent their spleens. Don't take offence, footy fans or pet owners. S1 Ep5</desc>
+  </programme>
+  <programme>
+<title>Red Dwarf</title>
+<end>2140</end>
+<desc>The space comedy with a legion of fans. Crafty Rimmer attempts to 'earn' a commission to join the crew of the advanced holoship Enlightenment, the vessel of his dreams. S5 Ep1</desc>
+<subtitle>Holoship</subtitle>
+<start>2100</start>
+  </programme>
+  <programme>
+<end>2220</end>
+<title>Red Dwarf</title>
+<start>2140</start>
+<subtitle>Inquisitor</subtitle>
+<desc>The crew are in trouble when they run into the Inquisitor, a creature that roams through the universe dealing with life's wastrels. Naturally, they are next on his list. S5 Ep2</desc>
+  </programme>
+  <programme>
+<desc>Lucy remembers the time she was in an episode of Doctors acting alongside Fleabag star Phoebe Waller Bridge. Jon's never seen the footage. Until now. S1 Ep6</desc>
+<start>2220</start>
+<title>Meet the Richardsons</title>
+<end>2300</end>
+  </programme>
+  <programme>
+<end>0000</end>
+<title>QI XL</title>
+<start>2300</start>
+<desc>Before the Sandi Toksvig coup, general of knowledge Stephen Fry soldiered on to fire posers at Sheila Hancock, Jeremy Clarkson, Jimmy Carr and Alan Davies. S13 Ep2</desc>
+<subtitle>Military Matters</subtitle>
+  </programme>
+  <programme>
+<title>Taskmaster</title>
+<end>0100</end>
+<desc>Roisin Conaty and Frank Skinner are among the comedians at the mercy of Greg Davies, who sets them some batty challenges - including playing golf with eggs. S1 Ep6</desc>
+<subtitle>The Last Supper</subtitle>
+<start>0000</start>
+  </programme>
+  <programme>
+<start>0100</start>
+<desc>Host Rob Brydon joins David Mitchell and Lee Mack - plus guests Fern Britton, Richard E Grant and Sanjeev Bhaskar - for the panel show that tries to discern fact from fiction. S4 Ep1</desc>
+<end>0140</end>
+<title>Would I Lie to You?</title>
+  </programme>
+  <programme>
+<end>0225</end>
+<title>Would I Lie to You?</title>
+<start>0140</start>
+<desc>Rob Brydon hosts the jocular panel show about truth-bending and lie-telling, with David Mitchell and Lee Mack and guests Jason Manford, Ruth Jones, Jack Dee and Peter Serafinowicz. S4 Ep2</desc>
+  </programme>
+  <programme>
+<end>0300</end>
+<title>Red Dwarf XI</title>
+<start>0225</start>
+<desc>Cosmic capers with the useless crew of smegheads, exclusive to Dave. Lister and Cat get trapped while exploring a crashed ship at the bottom of an ocean moon. S11 Ep2</desc>
+<subtitle>Samsara</subtitle>
+  </programme>
+  <programme>
+<desc>Hilarious space-set sitcom. Trouble's in store when Starbug arrives on a Psi-moon and the planet rebuilds itself to imitate the wretched Rimmer's warped little mind. S5 Ep3</desc>
+<subtitle>Terrorform</subtitle>
+<start>0300</start>
+<title>Red Dwarf</title>
+<end>0330</end>
+  </programme>
+  <programme>
+<start>0330</start>
+<desc>Adrenaline-fuelled action sport antics. Tim and Gendle take multi-terrain boardsports to the next level, from speedy slaloms on grass to dry ski loops. S1 Ep4</desc>
+<subtitle>No Snow, No Problem</subtitle>
+<end>0400</end>
+<title>The Indestructibles</title>
+  </programme>
+  <programme>
+<desc>Shopping from Home.</desc>
+<start>0400</start>
+<title>Teleshopping</title>
+<end>0600</end>
+  </programme>
+  <programme>
+<desc>Shopping from Home.</desc>
+<start>0600</start>
+<title>Teleshopping</title>
+<end>0710</end>
+  </programme>
+</channel>

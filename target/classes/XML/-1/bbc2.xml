@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Wed Apr  1 07:19:05 2020 -->
+<channel id="bbc2" source="XMLTV" date="06/04/2020">
+  <programme>
+<title>This is BBC Two</title>
+<end>0630</end>
+<desc>Highlights of programmes BBC Two.</desc>
+<start>0410</start>
+  </programme>
+  <programme>
+<end>0715</end>
+<title>Pointless</title>
+<start>0630</start>
+<desc>51/55. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<desc>Anita Manning and Christina Trevanion present today's show from the Oswestry Showground, where the teams search for antiques with the help of Kate Bliss and Ochuko Ojiri. Also in HD. [S]</desc>
+<start>0715</start>
+<title>Bargain Hunt</title>
+<end>0800</end>
+  </programme>
+  <programme>
+<start>0800</start>
+<desc>8/8. There are shocks and surprises in store as the three finalists try to win over Mary, Angela and Chris with their ultimate three-course dinner party. Also in HD. [S,SL]</desc>
+<end>0900</end>
+<title>Best Home Cook</title>
+  </programme>
+  <programme>
+<title>The Sweet Makers: A Tudor Treat</title>
+<end>1000</end>
+<desc>1/3. Four modern-day confectioners recreate a Tudor sugar banquet and discover how the quest to satisfy the nation's sweet tooth transformed Britain. Also in HD. [S,AD]</desc>
+<start>0900</start>
+  </programme>
+  <programme>
+<start>1000</start>
+<desc>Twenty-four hours a day, the latest national and international stories as they break. Also in HD. [S]</desc>
+<end>1300</end>
+<title>BBC News</title>
+  </programme>
+  <programme>
+<start>1300</start>
+<desc>1/15. Paul Martin presents the ultimate test in vintage and collectables. With £1,000 at stake in the Curiosity Shop, who will curate the most valuable collection? Also in HD. [S]</desc>
+<end>1345</end>
+<title>Curiosity</title>
+  </programme>
+  <programme>
+<desc>1/3. Nature series. A team of biologists and specialist camera crew explore the jungles of Costa Rica to find out how animals have adapted to life in the dark. Also in HD. [S,AD]</desc>
+<start>1345</start>
+<title>The Dark: Nature's Nighttime World</title>
+<end>1445</end>
+  </programme>
+  <programme>
+<start>1445</start>
+<desc>As double-Oscar winner Jane Fonda approaches her 80th birthday, a look back at the life of one of Hollywood's most successful and controversial actresses. Also in HD. [S]</desc>
+<end>1515</end>
+<title>Jane Fonda: Talking Pictures</title>
+  </programme>
+  <programme>
+<desc>British comedy about a born loser who enrols at the College of Lifemanship and turns his life around by learning how to charm and cheat his way to the top with little effort. Also in HD. [1960] [S]</desc>
+<start>1515</start>
+<title>School for Scoundrels</title>
+<end>1645</end>
+<type>Film</type>
+  </programme>
+  <programme>
+<desc>Jeremy Vine hosts the show where every day a new team of challengers take on what is probably the greatest quiz team in Britain, made up of some of the country's top quizzers. Also in HD. [S]</desc>
+<start>1645</start>
+<title>Eggheads</title>
+<end>1715</end>
+  </programme>
+  <programme>
+<end>1800</end>
+<title>Flog It!</title>
+<start>1715</start>
+<desc>47/60. Antiques expert David Harper finds an unusual Japanese writing table and Adam Partridge discovers a Cornish artwork that was bought with a young owner's pocket-money. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<title>Richard Osman's House of Games</title>
+<end>1830</end>
+<desc>21/50. Richard Osman hosts as actress Chizzy Akudolu, author and comedian Charlie Higson, historian Kate Williams and comedian Tom Allen test their general knowledge skills. Also in HD. [S]</desc>
+<start>1800</start>
+  </programme>
+  <programme>
+<end>1900</end>
+<title>Animal Park</title>
+<start>1830</start>
+<desc>6/15. Has clumsy koala Dennis got what it takes to woo his trio of girls? Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<desc>...Adventure. 3/6. The independent spirit of the people shines through in Si and Dave's Corsican adventure. Also in HD. [S,AD]</desc>
+<start>1900</start>
+<title>Hairy Bikers' Mediterranean...</title>
+<end>2000</end>
+  </programme>
+  <programme>
+<start>2000</start>
+<desc>27/31. The semi-final subjects include Richard Wagner and Flight of the Conchords. Also in HD. [S]</desc>
+<end>2030</end>
+<title>Mastermind</title>
+  </programme>
+  <programme>
+<start>2030</start>
+<desc>35/37. In the first of the semi-finals, one team find out if they have made it to the grand final of the quiz for students. Jeremy Paxman asks the questions. Also in HD. [S]</desc>
+<end>2100</end>
+<title>University Challenge</title>
+  </programme>
+  <programme>
+<end>2200</end>
+<title>Terror in Paradise</title>
+<start>2100</start>
+<desc>Investigative documentary. Jane Corbin talks to survivors and witnesses of one of the worst Islamist terror attacks since 9/11, which took place in Sri Lanka on Easter Sunday 2019. Also in HD. [S,AD]</desc>
+  </programme>
+  <programme>
+<title>Mock the Week</title>
+<end>2230</end>
+<desc>9/13. Dara O Briain and Hugh Dennis check out the last seven days with guests Maisie Adam, Ed Byrne, Sophie Duker, Ed Gamble and Mark Simmons. Also in HD. [S]</desc>
+<start>2200</start>
+  </programme>
+  <programme>
+<end>2245</end>
+<title>The Mini Mash Report</title>
+<start>2230</start>
+<desc>2/9. Highlights from the satirical show that brings you everything that has and hasn't happened this week. Contains adult humour. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<desc>The day's important national and international news stories with Emily Maitlis. Also in HD. [S]</desc>
+<start>2245</start>
+<title>Newsnight</title>
+<end>2325</end>
+  </programme>
+  <programme>
+<desc>Weather bulletin. Also in HD. [S]</desc>
+<start>2325</start>
+<title>Weather</title>
+<end>2330</end>
+  </programme>
+  <programme>
+<title>Cops Like Us</title>
+<end>0030</end>
+<desc>3/3. Officers from Staffordshire police, one of the country's most cut forces, look to the future as they take on new recruits. Contains strong language. Also in HD. [S]</desc>
+<start>2330</start>
+  </programme>
+  <programme>
+<start>0030</start>
+<desc>13/20. Award-winning cheeses and meats are on sale at one of Britain's oldest farmers' markets in Bath. Also in HD. [S,SL]</desc>
+<end>0115</end>
+<title>The Farmers' Country Showdown</title>
+  </programme>
+  <programme>
+<desc>In Herefordshire's Lugg Valley, Ellie Harrison helps volunteers protect toads, visits a community forest garden and joins an artist who sees beauty in the flooded landscape. Also in HD. [S,SL]</desc>
+<start>0115</start>
+<title>Countryfile</title>
+<end>0210</end>
+  </programme>
+  <programme>
+<start>0210</start>
+<desc>Highlights of programmes BBC Two.</desc>
+<end>0645</end>
+<title>This is BBC Two</title>
+  </programme>
+</channel>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Fri Apr  3 07:21:45 2020 -->
+<channel id="dave" source="XMLTV" date="08/04/2020">
+  <programme>
+<title>Teleshopping</title>
+<start>0600</start>
+<desc>Shopping from Home.</desc>
+<end>0710</end>
+  </programme>
+  <programme>
+<end>0735</end>
+<desc>Jordan Andino explores the Montreal food scene. He heads to steak restaurant Moishe's, which is wowing the younger late night crowd with its filet mignon poutine. S1 Ep2</desc>
+<start>0710</start>
+<subtitle>Montreal</subtitle>
+<title>Late Nite Eats</title>
+  </programme>
+  <programme>
+<end>0800</end>
+<start>0735</start>
+<desc>In Oakland, Jordan Andino is blown away by Chef Chris' interpretation of traditional Korean Bibimbap - served with softshell crab, kimchee and grilled pineapple. S1 Ep13</desc>
+<title>Late Nite Eats</title>
+<subtitle>Oakland</subtitle>
+  </programme>
+  <programme>
+<title>American Pickers</title>
+<subtitle>Mike's Holy Grail</subtitle>
+<desc>The duo who turn trash into cash. Mike and Frank track down a one-of-a-kind motorbike. While on the road, the guys receive amazing news from an appraiser. S5 Ep1</desc>
+<start>0800</start>
+<end>0900</end>
+  </programme>
+  <programme>
+<subtitle>Glasgow</subtitle>
+<title>Storage Hunters UK</title>
+<desc>Another round of auction ructions. Nat and John's day gets off to a flyer, but Dan's dirty tactics lead to mayhem - and fisticuffs! George is landed with a new pet. S1 Ep7</desc>
+<start>0900</start>
+<end>0930</end>
+  </programme>
+  <programme>
+<subtitle>Preston</subtitle>
+<title>Storage Hunters UK</title>
+<desc>Unflappable auctioneer Sean Kelly keeps order as rival bargain hunters scrap for all manner of potentially lucrative junk. Has cocky Dan gone too far this time? S1 Ep8</desc>
+<start>0930</start>
+<end>1000</end>
+  </programme>
+  <programme>
+<end>1030</end>
+<desc>Eddie visits the Garden State for a supersized breakfast in a New Jersey diner, a tryout with ice hockey pros the NJ Devils - and an epic struggle with an eight-hot-dog challenge. S1 Ep6</desc>
+<start>1000</start>
+<title>Eddie Eats America</title>
+<subtitle>New Jersey</subtitle>
+  </programme>
+  <programme>
+<desc>In Austin, Eddie Hall takes on Superbike legend Colin `Texas Tornado' Edwards in a strength vs speed race - and sets his own eating challenge from eight of the city's food trucks. S1 Ep7</desc>
+<start>1030</start>
+<end>1100</end>
+<subtitle>Austin</subtitle>
+<title>Eddie Eats America</title>
+  </programme>
+  <programme>
+<title>Top Gear</title>
+<end>1200</end>
+<desc>The lads go head-to-head against their opposite numbers from the Australian Top Gear in a car-based version of The Ashes. Howzat sound? Tennis star Boris Becker also guests. S16 Ep3</desc>
+<start>1100</start>
+  </programme>
+  <programme>
+<title>Red Bull Soapbox Race</title>
+<subtitle>Turin</subtitle>
+<desc>It's going downhill fast in northern Italy, where 65 nutty teams pit their wacky homemade racers against a 500m-long track. Will any petrol-free motor be a runaway success? S2 Ep4</desc>
+<start>1200</start>
+<end>1300</end>
+  </programme>
+  <programme>
+<desc>More motoring mayhem. Jeremy and Richard tackle the interconnected issues of an ageing population and the complexity of modern cars by designing a vehicle for pensioners. S19 Ep5</desc>
+<start>1300</start>
+<end>1400</end>
+<title>Top Gear</title>
+  </programme>
+  <programme>
+<title>Top Gear: Winter Blunderland</title>
+<end>1500</end>
+<desc>Jeremy Clarkson, Richard Hammond and James May present their best winter challenges, including playing ice hockey with Suzukis and what occurs if you ski-jump a rocket-powered Mini. S1 Ep3</desc>
+<start>1400</start>
+  </programme>
+  <programme>
+<title>Top Gear</title>
+<end>1600</end>
+<desc>The fun-packed petrolhead show, hosted by Jeremy Clarkson and co. The chaps try to prove that a fly-drive holiday to Florida is more fun if you buy a car rather than rent one. S9 Ep3</desc>
+<start>1500</start>
+  </programme>
+  <programme>
+<title>Top Gear</title>
+<desc>The team transforms a disused hearse into a family car, Chris Harris test-drives the Dallara Stradale, while Zara and Mike Tindall go head-to-head in Star in a Reasonably Fast Car. S27 Ep3</desc>
+<start>1600</start>
+<end>1700</end>
+  </programme>
+  <programme>
+<title>Top Gear</title>
+<end>1800</end>
+<start>1700</start>
+<desc>Paddy McGuinness and Freddie Flintoff go on a jungle adventure in Borneo in a pair of very rare but very cheap old cars. Back in the studio, the gang is joined by Bob Mortimer. S27 Ep4</desc>
+  </programme>
+  <programme>
+<desc>Dastardly Greg Davies sets fiendish tasks for five plucky - some would say foolish - comics. Tune in for Jon Richardson's disturbing take on Three Blind Mice! S2 Ep2</desc>
+<start>1800</start>
+<end>1900</end>
+<subtitle>Pork Is a Sausage</subtitle>
+<title>Taskmaster</title>
+  </programme>
+  <programme>
+<end>1940</end>
+<desc>Rob Brydon presides over the wittily deceptive comedy panel show. David Mitchell and Lee Mack are joined by Patrick Kielty, Bernard Cribbins, Deborah Meaden and Mark Watson. S4 Ep7</desc>
+<start>1900</start>
+<title>Would I Lie to You?</title>
+  </programme>
+  <programme>
+<title>Would I Lie to You?</title>
+<end>2020</end>
+<start>1940</start>
+<desc>Rob Brydon chairs the deceptive comedy panel game. David Mitchell and Lee Mack bluff and banter with Sarah Millican, Holly Walsh, Julian Clary and the late Ronnie Corbett. S4 Ep8</desc>
+  </programme>
+  <programme>
+<end>2100</end>
+<start>2020</start>
+<desc>The gags that didn't make it to TV first time round, but will still make you giggle. Rob Brydon hosts the panel show in which fact and fiction are indistinguishable. S4 Ep9</desc>
+<title>Would I Lie to You?</title>
+  </programme>
+  <programme>
+<start>2100</start>
+<desc>More trouble in store for the comical crew when they each meet their dark sides - four demonic doppelgangers eager to destroy their angelic counterparts. S5 Ep5</desc>
+<end>2140</end>
+<subtitle>Demons and Angels</subtitle>
+<title>Red Dwarf</title>
+  </programme>
+  <programme>
+<desc>The hapless Red Dwarf crew stumble upon a deserted space ship, but call off a salvage operation when a gargantuan sea monster appears from the murky ocean. S5 Ep6</desc>
+<start>2140</start>
+<end>2220</end>
+<subtitle>Back to Reality</subtitle>
+<title>Red Dwarf</title>
+  </programme>
+  <programme>
+<desc>Tall tales from celebrity panelists. Host Rob Brydon and regulars David Mitchell and Lee Mack welcome guests David O'Doherty, Katherine Parkinson, Bill Turnbull and Louie Spence. S5 Ep3</desc>
+<start>2220</start>
+<end>2300</end>
+<title>Would I Lie to You?</title>
+  </programme>
+  <programme>
+<title>Dara O Briain's Go 8 Bit</title>
+<end>0000</end>
+<desc>Anna Richardson and Nish Kumar grab a D-pad and duel on five classic and contemporary titles, including Virtua Fighter and Worms Armageddon. S3 Ep6</desc>
+<start>2300</start>
+  </programme>
+  <programme>
+<subtitle>Pork Is a Sausage</subtitle>
+<title>Taskmaster</title>
+<end>0100</end>
+<desc>Dastardly Greg Davies sets fiendish tasks for five plucky - some would say foolish - comics. Tune in for Jon Richardson's disturbing take on Three Blind Mice! S2 Ep2</desc>
+<start>0000</start>
+  </programme>
+  <programme>
+<title>Would I Lie to You?</title>
+<desc>Rob Brydon presides over the wittily deceptive comedy panel show. David Mitchell and Lee Mack are joined by Patrick Kielty, Bernard Cribbins, Deborah Meaden and Mark Watson. S4 Ep7</desc>
+<start>0100</start>
+<end>0140</end>
+  </programme>
+  <programme>
+<title>Would I Lie to You?</title>
+<desc>Rob Brydon chairs the deceptive comedy panel game. David Mitchell and Lee Mack bluff and banter with Sarah Millican, Holly Walsh, Julian Clary and the late Ronnie Corbett. S4 Ep8</desc>
+<start>0140</start>
+<end>0230</end>
+  </programme>
+  <programme>
+<title>Red Dwarf XI</title>
+<subtitle>Officer Rimmer</subtitle>
+<desc>Rimmer is promoted after some outrageous luck and opens an officer's club filled with versions of himself. S11 Ep4</desc>
+<start>0230</start>
+<end>0300</end>
+  </programme>
+  <programme>
+<subtitle>Demons and Angels</subtitle>
+<title>Red Dwarf</title>
+<desc>More trouble in store for the comical crew when they each meet their dark sides - four demonic doppelgangers eager to destroy their angelic counterparts. S5 Ep5</desc>
+<start>0300</start>
+<end>0330</end>
+  </programme>
+  <programme>
+<subtitle>Hole in One</subtitle>
+<title>The Indestructibles</title>
+<end>0400</end>
+<desc>Jaw-dropping sport stunts. Tim and Gendle devise a game of 'human hole in one', swapping golf balls for bikes, clubs for ramps and firing fearless riders at targets! S1 Ep5</desc>
+<start>0330</start>
+  </programme>
+  <programme>
+<desc>Shopping from Home.</desc>
+<start>0400</start>
+<end>0600</end>
+<title>Teleshopping</title>
+  </programme>
+  <programme>
+<title>Teleshopping</title>
+<end>0710</end>
+<desc>Shopping from Home.</desc>
+<start>0600</start>
+  </programme>
+</channel>

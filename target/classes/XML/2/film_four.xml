@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Sat Apr  4 07:22:06 2020 -->
+<channel id="film_four" source="XMLTV" date="09/04/2020">
+  <programme>
+<desc>Teleshopping.</desc>
+<start>0340</start>
+<title>Teleshopping</title>
+<end>0700</end>
+  </programme>
+  <programme>
+<end>1100</end>
+<title>Teleshopping</title>
+<start>0700</start>
+<desc>Teleshopping.</desc>
+  </programme>
+  <programme>
+<title>Rugrats in Paris</title>
+<end>1235</end>
+<desc>Animated adventure. The second feature outing for the Rugrats takes them to Paris, where Chuckie's widowed father has been called on to mend an animated monster in a theme park.</desc>
+<start>1100</start>
+<year>2000</year>
+<type>Film</type>
+  </programme>
+  <programme>
+<year>2013</year>
+<type>Film</type>
+<end>1415</end>
+<title>The House of Magic</title>
+<desc>Family animated adventure. A cruelly abandoned ginger kitten is rescued by a kindly elderly magician who lives in a creepy mansion. But the kitten's troubles aren't over yet.</desc>
+<start>1235</start>
+  </programme>
+  <programme>
+<end>1635</end>
+<title>Cocoon</title>
+<start>1415</start>
+<desc>Heart-warming sci-fi comedy. A group of retirees are rejuvenated after swimming in a pool storing strange objects from the sea. With Steve Guttenberg and Oscar-winning Don Ameche.</desc>
+<type>Film</type>
+<year>1985</year>
+  </programme>
+  <programme>
+<year>1964</year>
+<type>Film</type>
+<desc>Comedy with Kenneth Williams, Bernard Cribbins, Charles Hawtrey and Barbara Windsor. An undercover agent and his bumbling trainees are sent to track down a stolen top-secret formula.</desc>
+<start>1635</start>
+<end>1820</end>
+<title>Carry On Spying</title>
+  </programme>
+  <programme>
+<type>Film</type>
+<title>The Hunger Games: Mockingjay...</title>
+<end>2100</end>
+<desc>...Part 2: (2015) The final part of the dark dystopian fantasy-adventure starring Jennifer Laurence. The rebels prepare to battle for freedom and the future of their country. Violence.</desc>
+<start>1820</start>
+  </programme>
+  <programme>
+<type>Film</type>
+<year>2017</year>
+<end>2310</end>
+<title>Assassin's Creed</title>
+<start>2100</start>
+<desc>Sci-fi action-thriller with Michael Fassbender. A modern-day American is transported back to 15th-century Spain to help the Knights Templar find a mythical source of power. Violence.</desc>
+  </programme>
+  <programme>
+<start>2310</start>
+<desc>Outrageous comedy. A man struggles to accept his daughter's boorish boyfriend is about to pop the question. With Bryan Cranston, James Franco and Megan Mullally. Strong language.</desc>
+<title>Why Him?</title>
+<end>0125</end>
+<type>Film</type>
+<year>2016</year>
+  </programme>
+  <programme>
+<type>Film</type>
+<year>2014</year>
+<start>0125</start>
+<desc>Thriller with Isabelle Huppert. A woman's distrust of the police takes her on an unconventional path to justice when she is raped. In French/subs. Sexual violence/strong language.</desc>
+<title>Elle</title>
+<end>0400</end>
+  </programme>
+  <programme>
+<desc>Teleshopping.</desc>
+<start>0400</start>
+<end>0700</end>
+<title>Teleshopping</title>
+  </programme>
+</channel>

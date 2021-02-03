@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Sat Apr  4 07:19:02 2020 -->
+<channel id="bbc1" source="XMLTV" date="09/04/2020">
+  <programme>
+<desc>The latest news, sport, business and weather from the BBC's Breakfast team. Also in HD. [S]</desc>
+<start>0600</start>
+<title>Breakfast</title>
+<end>0900</end>
+  </programme>
+  <programme>
+<end>1000</end>
+<title>BBC News</title>
+<desc>The latest national and international stories as they break. Also in HD. [S]</desc>
+<start>0900</start>
+  </programme>
+  <programme>
+<start>1000</start>
+<desc>9/10. Daily advice for viewers in self-isolation due to the coronavirus outbreak. Also in HD. [S]</desc>
+<title>HealthCheck UK Live</title>
+<end>1045</end>
+  </programme>
+  <programme>
+<desc>2/30. It is a family affair as a father and son develop a terrace in Lancashire. Also in HD. [S]</desc>
+<start>1045</start>
+<end>1145</end>
+<title>Homes Under the Hammer</title>
+  </programme>
+  <programme>
+<title>Night Force</title>
+<end>1215</end>
+<start>1145</start>
+<desc>4/10. A courier company faces the busiest night of the year, and out-of-hours vets have a sickly pup to tend to. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<end>1300</end>
+<title>Bargain Hunt</title>
+<start>1215</start>
+<desc>10/34. The teams visit the Highland Centre in Edinburgh, where Natasha Raskin Sharp leads proceedings and experts Ben Cooper and Tim Weeks assist the teams. Also in HD. [S,AD]</desc>
+  </programme>
+  <programme>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+<start>1300</start>
+<end>1330</end>
+<title>BBC News</title>
+  </programme>
+  <programme>
+<end>1345</end>
+<title>BBC London &amp; South East</title>
+<desc>The latest news, sport, weather and features from the South East of England. [S]</desc>
+<start>1330</start>
+  </programme>
+  <programme>
+<start>1345</start>
+<desc>101/196. Daniel gets caught up in Valerie and Izzie's plan to save the birds. Zara tries to cheer Emma up, and Ruhma's evening ends in tears. Also in HD. [S,AD]</desc>
+<title>Doctors</title>
+<end>1415</end>
+  </programme>
+  <programme>
+<title>Father Brown</title>
+<end>1500</end>
+<desc>4/10. When Lady Felicia finds a stripped and injured man stuck up a tree, Sid is implicated. Also in HD. [S,AD]</desc>
+<start>1415</start>
+  </programme>
+  <programme>
+<desc>59/70. Nicki Chapman has the tough but rewarding task of finding the perfect country home for a couple leaving behind the home he has lived in for more than 60 years. Also in HD. [S,AD]</desc>
+<start>1500</start>
+<title>Escape to the Country</title>
+<end>1545</end>
+  </programme>
+  <programme>
+<desc>15/20. Junk makeover show. Sarah Moore salvages a refectory table, an armchair and a collection of frames at Dunbar Recycling Centre in Scotland. Also in HD. [S]</desc>
+<start>1545</start>
+<title>Money for Nothing</title>
+<end>1630</end>
+  </programme>
+  <programme>
+<end>1715</end>
+<title>The Repair Shop</title>
+<desc>24/40. Jay Blades and the team tackle an art deco clock, a teddy bear and a 3D photograph viewer. Also in HD. [S]</desc>
+<start>1630</start>
+  </programme>
+  <programme>
+<desc>3/55. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of. Also in HD. [S]</desc>
+<start>1715</start>
+<title>Pointless</title>
+<end>1800</end>
+  </programme>
+  <programme>
+<title>BBC News at Six</title>
+<end>1830</end>
+<start>1800</start>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<title>BBC London News</title>
+<end>1900</end>
+<desc>The latest news, sport and weather from London. [S]</desc>
+<start>1830</start>
+  </programme>
+  <programme>
+<desc>Alex Jones brings you the stories that matter from across the country. Also in HD. [S]</desc>
+<start>1900</start>
+<end>1930</end>
+<title>The One Show</title>
+  </programme>
+  <programme>
+<title>MasterChef</title>
+<end>2000</end>
+<desc>21/24. The remaining five chefs tackle the last challenge of the semi-finals, cooking for four of the country's most feared restaurant critics. Also in HD. [S,AD]</desc>
+<start>1930</start>
+  </programme>
+  <programme>
+<desc>Fiona Bruce presents an hour of topical debate. Also in HD. [S]</desc>
+<start>2000</start>
+<title>Question Time</title>
+<end>2100</end>
+  </programme>
+  <programme>
+<end>2200</end>
+<title>Noughts + Crosses</title>
+<desc>6/6. Now working with the brutal Liberation Militia, Callum makes a decision that threatens to put Sephy's life in great danger. Deals with adult themes. Also in HD. [S,AD]</desc>
+<start>2100</start>
+  </programme>
+  <programme>
+<start>2200</start>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+<title>BBC News at Ten</title>
+<end>2230</end>
+  </programme>
+  <programme>
+<end>2245</end>
+<title>BBC London News</title>
+<start>2230</start>
+<desc>The latest news, sport and weather from London. [S]</desc>
+  </programme>
+  <programme>
+<desc>4/10. Crime drama. Ted investigates the apparent suicide of a city trader embroiled in the cut-throat world of London's financial district back in the '80s. Deals with adult themes. Also in HD. [S,AD]</desc>
+<start>2245</start>
+<title>New Tricks</title>
+<end>2345</end>
+  </programme>
+  <programme>
+<end>0015</end>
+<title>The Coronavirus Newscast</title>
+<desc>Adam Fleming, Laura Kuenssberg and Fergus Walsh discuss the latest on the coronavirus. Also in HD. [S]</desc>
+<start>2345</start>
+  </programme>
+  <programme>
+<desc>Detailed weather forecast. Also in HD. [S]</desc>
+<start>0015</start>
+<title>Weather for the Week Ahead</title>
+<end>0020</end>
+  </programme>
+  <programme>
+<end>0600</end>
+<title>BBC News</title>
+<start>0020</start>
+<desc>BBC One joins the BBC's rolling news channel for a night of news. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<desc>The latest news, sport, business and weather from the BBC's Breakfast team. Also in HD. [S]</desc>
+<start>0600</start>
+<title>Breakfast</title>
+<end>0900</end>
+  </programme>
+</channel>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Sat Apr  4 07:23:15 2020 -->
+<channel id="qvc" source="XMLTV" date="09/04/2020">
+  <programme>
+<title>Meet the Beauty Experts</title>
+<end>0700</end>
+<desc>This show features a wide range of beauty products for your body, face, hair and nails, plus a selection of make-up. Plus our top beauty experts will be on hand to give you great advice and tips.</desc>
+<start>0600</start>
+  </programme>
+  <programme>
+<desc>This show features a wide range of beauty products for your body, face, hair and nails, plus a selection of make-up. Plus our top beauty experts will be on hand to give you great advice and tips.</desc>
+<start>0700</start>
+<end>0800</end>
+<title>Meet the Beauty Experts</title>
+  </programme>
+  <programme>
+<start>0800</start>
+<desc>This show features a wide range of beauty products for your body, face, hair and nails, plus a selection of make-up. Plus our top beauty experts will be on hand to give you great advice and tips.</desc>
+<end>0900</end>
+<title>Meet the Beauty Experts</title>
+  </programme>
+  <programme>
+<end>1000</end>
+<title>The Morning Show</title>
+<start>0900</start>
+<desc>Wake up to QVC! We've chosen products from across all our ranges to ensure there is something for everyone to enjoy. Tune in to see special guests too.</desc>
+  </programme>
+  <programme>
+<title>Focus on Fitness</title>
+<end>1100</end>
+<start>1000</start>
+<desc>We put the fun into fitness with a selection of products to help you lead a healthy lifestyle.</desc>
+  </programme>
+  <programme>
+<start>1100</start>
+<desc>Love beauty? Tune in to see our exciting array of popular and iconic brands plus cult products you're sure to love.</desc>
+<title>Beauty Loves...</title>
+<end>1200</end>
+  </programme>
+  <programme>
+<title>The Real Pie Company</title>
+<end>1300</end>
+<start>1200</start>
+<desc>For 14 years, the Real Pie Company has been established as an artisan pie-making brand focusing on high quality British ingredients and passionate about producing truly hand-made pies.</desc>
+  </programme>
+  <programme>
+<start>1300</start>
+<desc>Join us and our great panel of guests at lunchtime as they enjoy a chat and share a selection of fantastic products from top brands on QVC.</desc>
+<end>1400</end>
+<title>The Lunchtime Show</title>
+  </programme>
+  <programme>
+<start>1400</start>
+<desc>Since 1969, Yankee Candles have been made in the US from superior materials, including their premium fragrance oils. Fill your home with a wonderfully romantic atmosphere and exquisite scents.</desc>
+<end>1500</end>
+<title>Yankee Candles</title>
+  </programme>
+  <programme>
+<desc>Showcasing the fashionable and classic bags created by this international brand, including handbags, rucksacks, travel bags and weekend away bags.</desc>
+<start>1500</start>
+<end>1600</end>
+<title>Accessories by Kipling</title>
+  </programme>
+  <programme>
+<end>1700</end>
+<title>Beauty Loves...</title>
+<desc>Love beauty? Tune in to see our exciting array of popular and iconic brands plus cult products you're sure to love.</desc>
+<start>1600</start>
+  </programme>
+  <programme>
+<end>1800</end>
+<title>Bodyblade Fitness, Cubii Trainer</title>
+<start>1700</start>
+<desc>Work out and keep fit in the comfort of your own home with the innovative Bodyblade and Cubii Trainer.</desc>
+  </programme>
+  <programme>
+<title>In the Salon with SBC</title>
+<end>1900</end>
+<desc>SBC have captured the essences of plants to soothe your body. Tune in to find out how your skin can benefit from their renowned natural gel formulations.</desc>
+<start>1800</start>
+  </programme>
+  <programme>
+<start>1900</start>
+<desc>Dedicated to lovers of diamond jewellery, this show presents a range of 9 carat gold jewellery that combines diamonds with amethyst, garnet, peridot, blue topaz, citrine and other favourite gemstones.</desc>
+<title>Diamonds</title>
+<end>2100</end>
+  </programme>
+  <programme>
+<title>Michael Perry's Garden</title>
+<end>2200</end>
+<desc>Join QVC's resident gardening expert Michael Perry with his stunning selection of plants and all the tools you could need, plus attractive decorations for a finishing touch.</desc>
+<start>2100</start>
+  </programme>
+  <programme>
+<end>2300</end>
+<title>Silentnight</title>
+<desc>Discover the secret to a great night's sleep with quality beds and mattresses from the Silentnight range.</desc>
+<start>2200</start>
+  </programme>
+  <programme>
+<title>Beauty Loves...</title>
+<end>0000</end>
+<start>2300</start>
+<desc>Love beauty? Tune in to see our exciting array of popular and iconic brands plus cult products you're sure to love.</desc>
+  </programme>
+  <programme>
+<end>0100</end>
+<title>Michael Perry's Garden</title>
+<desc>Join QVC's resident gardening expert Michael Perry with his stunning selection of plants and all the tools you could need, plus attractive decorations for a finishing touch.</desc>
+<start>0000</start>
+  </programme>
+  <programme>
+<end>0200</end>
+<title>Michael Perry's Garden</title>
+<start>0100</start>
+<desc>Join QVC's resident gardening expert Michael Perry with his stunning selection of plants and all the tools you could need, plus attractive decorations for a finishing touch.</desc>
+  </programme>
+  <programme>
+<end>0300</end>
+<title>Michael Perry's Garden</title>
+<desc>Join QVC's resident gardening expert Michael Perry with his stunning selection of plants and all the tools you could need, plus attractive decorations for a finishing touch.</desc>
+<start>0200</start>
+  </programme>
+  <programme>
+<start>0300</start>
+<desc>Join QVC's resident gardening expert Michael Perry with his stunning selection of plants and all the tools you could need, plus attractive decorations for a finishing touch.</desc>
+<title>Michael Perry's Garden</title>
+<end>0400</end>
+  </programme>
+  <programme>
+<end>0500</end>
+<title>Michael Perry's Garden</title>
+<desc>Join QVC's resident gardening expert Michael Perry with his stunning selection of plants and all the tools you could need, plus attractive decorations for a finishing touch.</desc>
+<start>0400</start>
+  </programme>
+  <programme>
+<desc>Join QVC's resident gardening expert Michael Perry with his stunning selection of plants and all the tools you could need, plus attractive decorations for a finishing touch.</desc>
+<start>0500</start>
+<end>0600</end>
+<title>Michael Perry's Garden</title>
+  </programme>
+  <programme>
+<start>0600</start>
+<desc>Join QVC's resident gardening expert Michael Perry with his stunning selection of plants and all the tools you could need, plus attractive decorations for a finishing touch.</desc>
+<title>Michael Perry's Garden</title>
+<end>0700</end>
+  </programme>
+</channel>

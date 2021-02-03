@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Sat Apr  4 07:21:24 2020 -->
+<channel id="cbbc" source="XMLTV" date="09/04/2020">
+  <programme>
+<desc>This is CBBC! Join the CBBC crew for all your favourite programmes. Tune into CBBC every day from 7.00am.</desc>
+<start>0600</start>
+<end>0700</end>
+<title>This is CBBC!</title>
+  </programme>
+  <programme>
+<end>0715</end>
+<title>Arthur</title>
+<desc>The Hallway Minotaur. Animated adventures of a young aardvark. There's a new hallway monitor in town, and his name is George Lundgren. Also in HD. [S]</desc>
+<start>0700</start>
+  </programme>
+  <programme>
+<desc>Jurassic Bark. Animated series. Walter and Dr Pfoofleffer hatch a plan to create a whole new living dinosaur from a bone that Gnasher discovers. Also in HD. [S]</desc>
+<start>0715</start>
+<title>Dennis &amp; Gnasher Unleashed!</title>
+<end>0725</end>
+  </programme>
+  <programme>
+<title>Little Big Awesome</title>
+<end>0735</end>
+<start>0725</start>
+<desc>What's the Trouble Bubble. Gluko and Lennon must get Little Bubble back home to Bubble Land. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<title>Boy Girl Dog Cat Mouse Cheese</title>
+<end>0750</end>
+<start>0735</start>
+<desc>Game of Throne. The boys and girls get sick of having to share the bathroom. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<start>0750</start>
+<desc>Fix the Roof. Comedy series. There's a leak in the roof above Hilary Head's office so she forces the whole school to get involved in raising money to fix it. Also in HD. [S]</desc>
+<title>Class Dismissed</title>
+<end>0805</end>
+  </programme>
+  <programme>
+<desc>Coup d'Etat. Reality-style drama series. With the help of A-Troupe, Richelle sets in motion a plan she hopes will rid the Next Step of Miss Angela. Also in HD. [S]</desc>
+<start>0805</start>
+<end>0830</end>
+<title>The Next Step</title>
+  </programme>
+  <programme>
+<desc>Episode 4. Four junior bakers attempt to create rotis - flatbreads spiced with cumin and turmeric. Also in HD. [S]</desc>
+<start>0830</start>
+<end>0900</end>
+<title>Junior Bake Off</title>
+  </programme>
+  <programme>
+<start>0900</start>
+<desc>Unicorn Party. India and Curtis fashion a unicorn hoopla game that has a nice ring to it. Meanwhile, Stanley and Georgia use a whole bunch of fruits to make rainbow smoothies. Also in HD. [S]</desc>
+<title>Craft Party</title>
+<end>0915</end>
+  </programme>
+  <programme>
+<title>Newsround</title>
+<end>0925</end>
+<start>0915</start>
+<desc>09/04/2020. Topical news magazine for children. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<start>0925</start>
+<desc>Eleven-year-old Katy is a funny, energetic, daredevil oldest sister in a big, blended family. Her life changes in dramatic ways when she is injured and is unable to walk again. Also in HD. [S]</desc>
+<title>Jacqueline Wilson's Katy</title>
+<end>1055</end>
+  </programme>
+  <programme>
+<title>Absolute Genius: Monster Builds</title>
+<end>1125</end>
+<desc>Under Attack. Dick and Dom learn about defensive engineering, including impregnable castles, concrete bunkers and efforts to protect Earth from asteroids. Also in HD. [S]</desc>
+<start>1055</start>
+  </programme>
+  <programme>
+<title>Wild &amp; Weird</title>
+<end>1140</end>
+<start>1125</start>
+<desc>Superpowers. Tim and Naomi search the natural world for all things weird. They check out a superpowered squirrel that can withstand the freezing temperatures of the Arctic winter. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<start>1140</start>
+<desc>Chobham v St Oswald's. Chobham Academy take on St Oswald's Primary in a quiz show to win the title of Top Class. Also in HD. [S]</desc>
+<end>1210</end>
+<title>Top Class</title>
+  </programme>
+  <programme>
+<end>1215</end>
+<title>Newsround</title>
+<start>1210</start>
+<desc>09/04/2020. Topical news magazine for children. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<desc>Loved Up. Comedy drama series. Craig brings his cool new friend Justin home - and after one look at him, Lauren is smitten. Also in HD. [S]</desc>
+<start>1215</start>
+<title>Millie Inbetween</title>
+<end>1240</end>
+  </programme>
+  <programme>
+<title>Millie Inbetween</title>
+<end>1305</end>
+<desc>Bump in the Road. Comedy drama series. Dad and Amber realise they need some space - so they decide to take a break from their relationship. Also in HD. [S]</desc>
+<start>1240</start>
+  </programme>
+  <programme>
+<start>1305</start>
+<desc>Brothers in Arms. Comedy drama series. Dad and Amber are back together - and Amber's moving in. The resulting chaos drives Millie, Lauren, Fran and Jake round to Mum's house. Also in HD. [S]</desc>
+<title>Millie Inbetween</title>
+<end>1330</end>
+  </programme>
+  <programme>
+<title>Gym Stars</title>
+<end>1355</end>
+<desc>The Last Dance. Series following young gymnasts. After success at the Scottish Championships, Finn and Kirsten have their sights firmly set on selection for Acro World Championships. Also in HD. [S]</desc>
+<start>1330</start>
+  </programme>
+  <programme>
+<title>Gym Stars</title>
+<end>1415</end>
+<start>1355</start>
+<desc>Trying Out. Following some of the UK's most promising young gymnasts. To keep competing, rhythmic gymnast Sophie has to win a place in a British squad. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<title>The Dengineers</title>
+<end>1440</end>
+<start>1415</start>
+<desc>Christmas Den. Joe and Lauren get the help of experts to design dream dens for children. Astrid needs a Christmas den so she can enjoy that special day all year round. Also in HD. [S,SL]</desc>
+  </programme>
+  <programme>
+<start>1440</start>
+<desc>Back to the Future. Comedy drama series. It's New Year's Eve, Millie's stuck in the loft, Craig is humiliated, and the family are upset because they think they've missed midnight. Also in HD. [S,SL]</desc>
+<end>1508</end>
+<title>Millie Inbetween</title>
+  </programme>
+  <programme>
+<end>1510</end>
+<title>Sketchy Comedy</title>
+<desc>Episode 1. Comedy sketch show. A drinks can, a blender, pillows and skittles are among the items getting the Sketchy treatment. Also in HD. [S]</desc>
+<start>1508</start>
+  </programme>
+  <programme>
+<desc>The Other Day the Earth Stood Still. Animated series. Only Danger Mouse can save the world from chaos when the Baron stops the world spinning with a plague of traffic lights. Also in HD. [S,AD]</desc>
+<start>1510</start>
+<end>1525</end>
+<title>Danger Mouse</title>
+  </programme>
+  <programme>
+<title>Dennis &amp; Gnasher Unleashed!</title>
+<end>1535</end>
+<desc>Raiders of the Lost Sweetie. Animated series. Dennis discovers the school's Confiscatorium, a secret place where all confiscated goods are hidden. Also in HD. [S]</desc>
+<start>1525</start>
+  </programme>
+  <programme>
+<title>Little Big Awesome</title>
+<end>1550</end>
+<desc>What's the Trouble Bubble. Gluko and Lennon must get Little Bubble back home to Bubble Land. Also in HD. [S]</desc>
+<start>1535</start>
+  </programme>
+  <programme>
+<end>1600</end>
+<title>Boy Girl Dog Cat Mouse Cheese</title>
+<start>1550</start>
+<desc>Game of Throne. The boys and girls get sick of having to share the bathroom. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<desc>09/04/2020. Topical news magazine for children. Also in HD. [S]</desc>
+<start>1600</start>
+<title>Newsround</title>
+<end>1605</end>
+  </programme>
+  <programme>
+<start>1605</start>
+<desc>You Could Turn Into a Giant? Find out why turning into a huge giant would be no fairy tale. Also in HD. [S]</desc>
+<title>Hey You What If?</title>
+<end>1615</end>
+  </programme>
+  <programme>
+<start>1615</start>
+<desc>Who is Agent Otis? Part 1. Olympia discovers a secret about her partner. Also in HD. [S,AD]</desc>
+<title>Odd Squad</title>
+<end>1625</end>
+  </programme>
+  <programme>
+<start>1625</start>
+<desc>Spa Day. Comedy series. Joy wants to open a luxury spa centre at Pottsfield and vlogger Luke Cutforth is the first guest. Danny and Mick must put together a luxury treatment. Also in HD. [S,AD]</desc>
+<end>1640</end>
+<title>Danny and Mick</title>
+  </programme>
+  <programme>
+<start>1640</start>
+<desc>Amelie, Poppy and Kevin. Cheryl performs an operation on her own puppy, James helps a dog that's been injured chewing a stick, and Rory takes a blood sample from a very angry cat. Also in HD. [S]</desc>
+<end>1700</end>
+<title>The Pets Factor</title>
+  </programme>
+  <programme>
+<end>1730</end>
+<title>The Snow Spider</title>
+<desc>The Silver Ship. Gwyn investigates the identity of the pale girl in Arianwen's web. Meanwhile, his magical powers are putting a strain on his relationships with Alun and his parents. Also in HD. [S]</desc>
+<start>1700</start>
+  </programme>
+  <programme>
+<title>New: Blue Peter: Happy Easter!</title>
+<end>1805</end>
+<start>1730</start>
+<desc>Happy Easter! How to make your very own indoor garden, called a terrarium! Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<end>1825</end>
+<title>The Deep</title>
+<desc>Tartaruga. Animated series. The Nektons explore a floating island and find the final piece of the Ephemychron in a cave. But the island has a terrible secret. Also in HD. [S]</desc>
+<start>1805</start>
+  </programme>
+  <programme>
+<start>1825</start>
+<desc>The Ouch! Awards 2. The Ouch Awards returns, celebrating children across the UK who have shown incredible courage and bravery dealing with illness, caring for others and saving lives. Also in HD. [S]</desc>
+<title>Operation Ouch! Awards</title>
+<end>1858</end>
+  </programme>
+  <programme>
+<desc>Lemon Shark. Steve Backshall learns about sharks. Here, he meets the lemon shark - the snappiest shark in the world - while diving in the Bahamas in the Caribbean. Also in HD. [S]</desc>
+<start>1858</start>
+<title>Shark Bites</title>
+<end>1900</end>
+  </programme>
+  <programme>
+<title>Horrible Histories</title>
+<end>1930</end>
+<desc>Ridiculous Romantics. Horrible Histories charts the path towards true love. Henry VIII enlists the help of maitre d' Fred Sirieix as he tries to find the right wife. Also in HD. [S,AD]</desc>
+<start>1900</start>
+  </programme>
+  <programme>
+<end>2000</end>
+<title>Blue Peter: Happy Easter!</title>
+<start>1930</start>
+<desc>Happy Easter! How to make your very own indoor garden, called a terrarium! Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<end>2030</end>
+<title>The Dumping Ground</title>
+<start>2000</start>
+<desc>Wasters. Drama series set in a children's home. Alex is forced to confront his worst fears when work experience at Lily's cafe doesn't go as he planned. Also in HD. [S,AD]</desc>
+  </programme>
+  <programme>
+<title>The Snow Spider</title>
+<end>2100</end>
+<start>2030</start>
+<desc>The Silver Ship. Gwyn investigates the identity of the pale girl in Arianwen's web. Meanwhile, his magical powers are putting a strain on his relationships with Alun and his parents. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<title>This is CBBC!</title>
+<end>0000</end>
+<start>2100</start>
+<desc>This is CBBC! Join the CBBC crew for all your favourite programmes. Tune into CBBC every day from 7.00am.</desc>
+  </programme>
+  <programme>
+<end>0600</end>
+<title>This is CBBC!</title>
+<start>0000</start>
+<desc>This is CBBC! Join the CBBC crew for all your favourite programmes. Tune into CBBC every day from 7.00am.</desc>
+  </programme>
+  <programme>
+<start>0600</start>
+<desc>This is CBBC! Join the CBBC crew for all your favourite programmes. Tune into CBBC every day from 7.00am.</desc>
+<end>0700</end>
+<title>This is CBBC!</title>
+  </programme>
+</channel>

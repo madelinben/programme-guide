@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Fri Apr  3 07:22:27 2020 -->
+<channel id="itv1_hd" source="Sky" date="08/04/2020">
+  <programme>
+<desc>Breakfast show featuring the latest news, sport and weather.</desc>
+<start>0600</start>
+<end>0900</end>
+<title>Good Morning Britain</title>
+  </programme>
+  <programme>
+<end>1000</end>
+<desc>Lorraine Kelly joins the GMB team for an extra hour of Good Morning Britain, featuring the latest news, sport and weather.</desc>
+<start>0900</start>
+<title>Good Morning Britain with Lorraine</title>
+  </programme>
+  <programme>
+<title>This Morning</title>
+<end>1230</end>
+<start>1000</start>
+<desc>The This Morning team bring you top celebrity guests, lifestyle advice, stunning competitions and award-winning features, all topped off with a sprinkle of humour for good measure.</desc>
+  </programme>
+  <programme>
+<title>Loose Women</title>
+<end>1330</end>
+<desc>Singer and performer Lee Ryan, and actress Denise Black join the Loose Women panel as special guests to talk about what they've been getting up to recently.</desc>
+<start>1230</start>
+  </programme>
+  <programme>
+<title>ITV Lunchtime News</title>
+<desc>The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.</desc>
+<start>1330</start>
+<end>1355</end>
+  </programme>
+  <programme>
+<end>1400</end>
+<start>1355</start>
+<desc>The latest news and weather from London and the South East.</desc>
+<title>ITV News London</title>
+  </programme>
+  <programme>
+<title>New: James Martin's Islands to...</title>
+<end>1500</end>
+<desc>...Highlands. Devon: On the next leg of his Islands to Highlands tour, James is joined in glorious Devon by his friend and Michelin-starred chef Simon Hulstone. S1 Ep3</desc>
+<start>1400</start>
+  </programme>
+  <programme>
+<title>Tenable</title>
+<subtitle>Burke Hard Play Hard</subtitle>
+<start>1500</start>
+<desc>A team of five family and friends answer a series of Top 10 list questions. Can they land a Perfect 10 and take home the money? S4 Ep15</desc>
+<end>1600</end>
+  </programme>
+  <programme>
+<end>1700</end>
+<desc>Ben Shephard hosts the quiz show in which four players take on an extraordinary machine in the hope of winning the 10,000 pound jackpot. S9 Ep23</desc>
+<start>1600</start>
+<title>Tipping Point</title>
+  </programme>
+  <programme>
+<title>The Chase</title>
+<desc>Quiz show hosted by Bradley Walsh. Four contestants must pit their wits against the Chaser, a ruthless quiz genius determined to stop them winning the cash prize. S10 Ep48</desc>
+<start>1700</start>
+<end>1800</end>
+  </programme>
+  <programme>
+<title>ITV News London</title>
+<desc>The latest news and weather from London and the South East.</desc>
+<start>1800</start>
+<end>1830</end>
+  </programme>
+  <programme>
+<desc>National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.</desc>
+<start>1830</start>
+<end>1900</end>
+<title>ITV Evening News</title>
+  </programme>
+  <programme>
+<title>Emmerdale</title>
+<end>1930</end>
+<start>1900</start>
+<desc>Malone puts Billy in a difficult position. Belle and Jamie have an awkward moment. Dawn worries Billy is avoiding her.</desc>
+  </programme>
+  <programme>
+<start>1930</start>
+<desc>Chesney is horrified when Gemma abandons their babies. The return of Rick's daughter Kelly rattles Gary. Yasmeen consults the police about Geoff's past.</desc>
+<end>2000</end>
+<title>Coronation Street</title>
+  </programme>
+  <programme>
+<subtitle>The Storm</subtitle>
+<title>New: Kate &amp; Koji</title>
+<desc>When word reaches them that a storm is headed for town, Kate refuses to step in line, much to the grief of Councillor Bone. S1 Ep4</desc>
+<start>2000</start>
+<end>2030</end>
+  </programme>
+  <programme>
+<title>Paul O'Grady: For the...</title>
+<start>2030</start>
+<desc>...Love of Dogs. Paul O'Grady meets some special dogs who need to go to unconventional homes, including a dog with star potential and a pointer cross who may have been shot at in the past. S8 Ep2</desc>
+<end>2100</end>
+  </programme>
+  <programme>
+<end>2200</end>
+<start>2100</start>
+<desc>It's the day of the village celebrations. Roxanna is still terrified by Alex's alarming behaviour and is desperate to get to him before he confronts the money lenders. S1 Ep6</desc>
+<title>New: The Trouble with Maggie Cole</title>
+  </programme>
+  <programme>
+<start>2200</start>
+<desc>ITV News at Ten provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+<end>2230</end>
+<title>ITV News at Ten</title>
+  </programme>
+  <programme>
+<title>ITV News London</title>
+<desc>The latest news and weather from London and the South East.</desc>
+<start>2230</start>
+<end>2245</end>
+  </programme>
+  <programme>
+<end>2340</end>
+<start>2245</start>
+<desc>As the political temperature rises, join Robert Peston for a late night political magazine show, featuring big interviews with the country's leading politicians. S6 Ep12</desc>
+<title>Peston</title>
+  </programme>
+  <programme>
+<start>2340</start>
+<desc>A team of family and friends take on the Tenable Tower as they attempt to win 125,000 pounds whilst answering Top 10 list questions. Hosted by Warwick Davis. S4 Ep31</desc>
+<end>0035</end>
+<title>Tenable</title>
+<subtitle>Sisters Before Misters</subtitle>
+  </programme>
+  <programme>
+<title>Ideal World</title>
+<desc>Join Ideal World on ITV for some of the best offers and products on TV. To see more go to www.idealworld.tv.</desc>
+<start>0035</start>
+<end>0300</end>
+  </programme>
+  <programme>
+<end>0350</end>
+<start>0300</start>
+<desc>The Bafta award-winning drama series set in a Dorset seaside resort continues. Ellie makes a breakthrough and the Latimers count the cost. S3 Ep7</desc>
+<title>Broadchurch</title>
+  </programme>
+  <programme>
+<end>0505</end>
+<start>0350</start>
+<desc>Text-based information service.</desc>
+<title>ITV Nightscreen</title>
+  </programme>
+  <programme>
+<title>Judge Rinder</title>
+<subtitle>Carly v Evija</subtitle>
+<desc>Carly is in court to claim 350 pounds for various loans she made to her friend. Defendant Evija claims that there was no deadline attached to the loan. [SL] S7 Ep80</desc>
+<start>0505</start>
+<end>0600</end>
+  </programme>
+  <programme>
+<desc>Breakfast show featuring the latest news, sport and weather.</desc>
+<start>0600</start>
+<end>0900</end>
+<title>Good Morning Britain</title>
+  </programme>
+</channel>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Thu Apr  2 07:19:01 2020 -->
+<channel id="bbc1" source="XMLTV" date="07/04/2020">
+  <programme>
+<start>0600</start>
+<desc>The latest news, sport, business and weather from the BBC's Breakfast team. Also in HD. [S]</desc>
+<title>Breakfast</title>
+<end>0900</end>
+  </programme>
+  <programme>
+<desc>The latest national and international stories as they break. Also in HD. [S]</desc>
+<start>0900</start>
+<title>BBC News</title>
+<end>1000</end>
+  </programme>
+  <programme>
+<start>1000</start>
+<desc>7/10. Daily advice for viewers in self-isolation due to the coronavirus outbreak. Also in HD. [S]</desc>
+<end>1045</end>
+<title>HealthCheck UK Live</title>
+  </programme>
+  <programme>
+<title>Homes Under the Hammer</title>
+<end>1145</end>
+<start>1045</start>
+<desc>1/30. Featuring a semi in Claygate in Surrey, a terrace in Willenhall in the West Midlands and a bungalow in Ashton-on-Ribble in Lancashire. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<desc>2/10. Mechanics from the AA work through the night to rescue stricken motorists, and a team at Care Call rush to provide emergency support to clients with various problems. Also in HD. [S]</desc>
+<start>1145</start>
+<title>Night Force</title>
+<end>1215</end>
+  </programme>
+  <programme>
+<end>1300</end>
+<title>Bargain Hunt</title>
+<start>1215</start>
+<desc>Today's reds and blues are joined by experts Richard Madley and Ben Cooper as they go bargain hunting in Cheshire. They have £300 and one hour to buy three items. Also in HD. [S,AD]</desc>
+  </programme>
+  <programme>
+<start>1300</start>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+<title>BBC News at One</title>
+<end>1330</end>
+  </programme>
+  <programme>
+<end>1345</end>
+<title>South East Today</title>
+<start>1330</start>
+<desc>The latest news, sport, weather and features from the South East of England. [S]</desc>
+  </programme>
+  <programme>
+<end>1415</end>
+<title>Doctors</title>
+<start>1345</start>
+<desc>99/196. Al gets frustrated with Karen when she sticks her nose in while he deals with an unusual and complicated case. Also in HD. [S,AD]</desc>
+  </programme>
+  <programme>
+<desc>2/10. Drama series. Father Brown becomes embroiled with a theatrical family when he discovers that a supposed tragic drowning was actually murder. Also in HD. [S,AD]</desc>
+<start>1415</start>
+<end>1500</end>
+<title>Father Brown</title>
+  </programme>
+  <programme>
+<start>1500</start>
+<desc>19/25. Jules Hudson helps a couple find a perfect retirement retreat in the Cornish countryside. Also in HD. [S]</desc>
+<end>1545</end>
+<title>Escape to the Country</title>
+  </programme>
+  <programme>
+<title>Money for Nothing</title>
+<end>1630</end>
+<start>1545</start>
+<desc>13/20. Junk makeover show. At Altrincham Recycling Centre, Jay Blades rescues some mattress springs, an old writing bureau and a broken granite worktop,. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<title>The Repair Shop</title>
+<end>1715</end>
+<start>1630</start>
+<desc>22/40. Jay Blades and the team tackle a bus conductor's ticket machine, a Victorian automaton and a former world champion's kick boxing trophy. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<start>1715</start>
+<desc>1/55. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of. Also in HD. [S]</desc>
+<end>1800</end>
+<title>Pointless</title>
+  </programme>
+  <programme>
+<title>BBC News at Six</title>
+<end>1830</end>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+<start>1800</start>
+  </programme>
+  <programme>
+<start>1830</start>
+<desc>The latest news, sport and weather from London. [S]</desc>
+<title>BBC London News</title>
+<end>1900</end>
+  </programme>
+  <programme>
+<title>The One Show</title>
+<end>1930</end>
+<desc>Alex Jones brings you the stories that matter from across the country. Also in HD. [S]</desc>
+<start>1900</start>
+  </programme>
+  <programme>
+<title>EastEnders</title>
+<end>2000</end>
+<start>1930</start>
+<desc>Bobby develops a crush, and Vinny is determined to prove himself. Also in HD. [S,AD]</desc>
+  </programme>
+  <programme>
+<start>2000</start>
+<desc>13/52. Max struggles to come to terms with an explosive revelation. Jac and Kian bond over pizza and wine, and Dom tries to reason with a distraught Essie. Also in HD. [S,AD]</desc>
+<title>Holby City</title>
+<end>2100</end>
+  </programme>
+  <programme>
+<desc>3/6. Georgie unearths vital intelligence that sends 2 Section on a dangerous mission to rescue Dr Bahil. Also in HD. [S,AD]</desc>
+<start>2100</start>
+<end>2200</end>
+<title>Our Girl</title>
+  </programme>
+  <programme>
+<title>BBC News at Ten</title>
+<end>2230</end>
+<start>2200</start>
+<desc>The latest national and international news from the BBC. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<title>BBC London News</title>
+<end>2245</end>
+<desc>The latest news, sport and weather from London. [S]</desc>
+<start>2230</start>
+  </programme>
+  <programme>
+<desc>3/3. Mick goes full throttle at Tommy's house party as he tries to forget about his testicle. Contains strong language. Also in HD. [S,AD]</desc>
+<start>2245</start>
+<end>2315</end>
+<title>My Left Nut</title>
+  </programme>
+  <programme>
+<desc>2/5. Peter makes another erratic appearance on Jonathan Ross. Contains some strong language and adult humour. Also in HD. [S,AD]</desc>
+<start>2315</start>
+<title>Peter Kay's Comedy Shuffle</title>
+<end>2345</end>
+  </programme>
+  <programme>
+<title>Catchpoint</title>
+<end>0015</end>
+<start>2345</start>
+<desc>4/6. Two teams, Amar and Krupa and Gareth and Simon, want to grab the cash prize, but first they must grab the falling balls. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<end>0020</end>
+<title>Weather for the Week Ahead</title>
+<start>0015</start>
+<desc>Detailed weather forecast. Also in HD. [S]</desc>
+  </programme>
+  <programme>
+<desc>BBC One joins the BBC's rolling news channel for a night of news. Also in HD. [S]</desc>
+<start>0020</start>
+<title>BBC News</title>
+<end>0600</end>
+  </programme>
+  <programme>
+<start>0600</start>
+<desc>The latest news, sport, business and weather from the BBC's Breakfast team. Also in HD. [S]</desc>
+<title>Breakfast</title>
+<end>0900</end>
+  </programme>
+</channel>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Fri Apr  3 07:22:06 2020 -->
+<channel id="film_four" source="XMLTV" date="08/04/2020">
+  <programme>
+<desc>Teleshopping.</desc>
+<start>0400</start>
+<end>0700</end>
+<title>Teleshopping</title>
+  </programme>
+  <programme>
+<title>Teleshopping</title>
+<end>1100</end>
+<desc>Teleshopping.</desc>
+<start>0700</start>
+  </programme>
+  <programme>
+<end>1255</end>
+<start>1100</start>
+<desc>Musical drama set to the songs of The Proclaimers. Two ex-soldiers (George MacKay and Kevin Guthrie) think they've found their perfect women, but a secret threatens their happiness.</desc>
+<type>Film</type>
+<title>Sunshine on Leith</title>
+<year>2013</year>
+  </programme>
+  <programme>
+<end>1445</end>
+<desc>Animation. When a power-crazy billionaire hatches a plan to claim the moon as his own property, a boy, a girl and a grumpy ex-astronaut grandad embark on a mission to stop him.</desc>
+<start>1255</start>
+<type>Film</type>
+<title>Capture the Flag</title>
+<year>2015</year>
+  </programme>
+  <programme>
+<desc>Family fantasy starring Hal Scardino and Litefoot. A boy is given a magical cupboard as a gift on his ninth birthday - and discovers it can bring his toys to life. With Steve Coogan.</desc>
+<start>1445</start>
+<end>1640</end>
+<year>1995</year>
+<type>Film</type>
+<title>The Indian in the Cupboard</title>
+  </programme>
+  <programme>
+<end>1855</end>
+<desc>Comedy with John Lithgow and Melinda Dillon. A family adopt a Bigfoot after their car hits a large hairy animal. The creature is unhurt but will soon needs their protection.</desc>
+<start>1640</start>
+<title>Harry and the Hendersons</title>
+<type>Film</type>
+<year>1987</year>
+  </programme>
+  <programme>
+<title>X-Men: The Last Stand</title>
+<type>Film</type>
+<year>2006</year>
+<end>2100</end>
+<start>1855</start>
+<desc>Fantasy adventure. The X-Men face a new threat: the development of an enforced cure for mutants. Starring Famke Janssen, Halle Berry, Ian McKellen and Patrick Stewart. Violence.</desc>
+  </programme>
+  <programme>
+<year>2017</year>
+<title>Atomic Blonde</title>
+<type>Film</type>
+<start>2100</start>
+<desc>Violent thriller starring Charlize Theron. A British spy is sent to Cold War Berlin to retrieve a very sensitive list. With Sofia Boutella and James McAvoy. Very Strong language/sex.</desc>
+<end>2315</end>
+  </programme>
+  <programme>
+<type>Film</type>
+<title>A Million Ways to Die in the West</title>
+<year>2014</year>
+<end>0130</end>
+<start>2315</start>
+<desc>In Seth 'Family Guy' MacFarlane's take on the Western, a sheep farmer finds himself love rival to a moustache and a notorious murderer. Strong, crude language/sex/violence/drugs.</desc>
+  </programme>
+  <programme>
+<type>Film</type>
+<title>Dark Places</title>
+<year>2015</year>
+<end>0340</end>
+<start>0130</start>
+<desc>Thriller about a woman whose family was slaughtered by her brother. Starring Charlize Theron and Nicholas Hoult. Adult themes/very strong language/violence/drugs.</desc>
+  </programme>
+  <programme>
+<title>Teleshopping</title>
+<start>0340</start>
+<desc>Teleshopping.</desc>
+<end>0700</end>
+  </programme>
+</channel>

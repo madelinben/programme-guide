@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Wed Apr  1 07:22:26 2020 -->
+<channel id="itv1_hd" source="Sky" date="06/04/2020">
+  <programme>
+<title>Good Morning Britain</title>
+<end>0900</end>
+<desc>Breakfast show featuring the latest news, sport and weather.</desc>
+<start>0600</start>
+  </programme>
+  <programme>
+<desc>Lorraine Kelly joins the GMB team for an extra hour of Good Morning Britain, featuring the latest news, sport and weather.</desc>
+<start>0900</start>
+<title>Good Morning Britain with Lorraine</title>
+<end>1000</end>
+  </programme>
+  <programme>
+<start>1000</start>
+<desc>The This Morning team bring you top celebrity guests, lifestyle advice, stunning competitions and award-winning features, all topped off with a sprinkle of humour for good measure.</desc>
+<end>1230</end>
+<title>This Morning</title>
+  </programme>
+  <programme>
+<start>1230</start>
+<desc>Special guests Gemma Atkinson and Gorka Marquez join the panel to talk about how they've been getting along as new parents to baby daughter Mia.</desc>
+<end>1330</end>
+<title>Loose Women</title>
+  </programme>
+  <programme>
+<desc>The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.</desc>
+<start>1330</start>
+<title>ITV Lunchtime News</title>
+<end>1355</end>
+  </programme>
+  <programme>
+<desc>The latest news and weather from London and the South East.</desc>
+<start>1355</start>
+<title>ITV News London</title>
+<end>1400</end>
+  </programme>
+  <programme>
+<desc>...Highlands. Isles of Scilly: James Martin sets off on his foodie travels across the UK. He starts his epic journey in the beautiful Scilly Isles, joined by Michelin-starred chef Galton Blackiston. S</desc>
+<start>1400</start>
+<title>New: James Martin's Islands to...</title>
+<end>1500</end>
+  </programme>
+  <programme>
+<title>Tenable</title>
+<end>1600</end>
+<subtitle>Hard as Wales</subtitle>
+<desc>A team of family members tackle a series of Top 10 list questions. Can they take on the Tenable tower and head home with the cash? S4 Ep13</desc>
+<start>1500</start>
+  </programme>
+  <programme>
+<title>Tipping Point</title>
+<end>1700</end>
+<desc>Ben Shephard hosts the quiz show in which four players take on an extraordinary machine in the hope of winning the 10,000 pound jackpot. S9 Ep21</desc>
+<start>1600</start>
+  </programme>
+  <programme>
+<end>1800</end>
+<title>The Chase</title>
+<start>1700</start>
+<desc>Quiz show hosted by Bradley Walsh. Four contestants must pit their wits against the Chaser, a ruthless quiz genius determined to stop them winning the cash prize. S10 Ep46</desc>
+  </programme>
+  <programme>
+<end>1830</end>
+<title>ITV News London</title>
+<start>1800</start>
+<desc>The latest news and weather from London and the South East.</desc>
+  </programme>
+  <programme>
+<title>ITV Evening News</title>
+<end>1900</end>
+<desc>National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.</desc>
+<start>1830</start>
+  </programme>
+  <programme>
+<end>1930</end>
+<title>Emmerdale</title>
+<start>1900</start>
+<desc>Malone seethes over Cain's betrayal. Bob puts his matchmaking plan into action. Paddy becomes anxious.</desc>
+  </programme>
+  <programme>
+<title>Coronation Street</title>
+<end>2000</end>
+<desc>Geoff despairs as Yasmeen walks out on him. Bernie implores Chesney to keep a close eye on Gemma. Michael attends a job interview at Underworld.</desc>
+<start>1930</start>
+  </programme>
+  <programme>
+<start>2000</start>
+<desc>Nina Hossain puts viewers' Coronavirus questions on a range of subjects to expert guests. S1 Ep2</desc>
+<end>2030</end>
+<title>Coronavirus: Q and A</title>
+  </programme>
+  <programme>
+<end>2100</end>
+<title>New: St Davids - Britain's...</title>
+<start>2030</start>
+<desc>...Smallest City. Forager Julia scours the shoreline for seaweed for her sustainable soaps, and the bug farm hosts its summer fayre. Ep6</desc>
+  </programme>
+  <programme>
+<title>New: Liar</title>
+<end>2200</end>
+<desc>In a last-ditch bid for her freedom, Laura takes drastic measures to hold Oliver to account, and the truth of what happened on the morning Andrew died is finally revealed. S2 Ep6</desc>
+<start>2100</start>
+  </programme>
+  <programme>
+<title>ITV News at Ten</title>
+<end>2230</end>
+<desc>ITV News at Ten provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+<start>2200</start>
+  </programme>
+  <programme>
+<end>2245</end>
+<title>ITV News London</title>
+<start>2230</start>
+<desc>The latest news and weather from London and the South East.</desc>
+  </programme>
+  <programme>
+<desc>A fascinating study of one of football's most infamous personality clashes between former midfield enforcers Roy Keane of Manchester United and Arsenal's Patrick Vieira.</desc>
+<start>2245</start>
+<title>Keane and Vieira: Best of Enemies</title>
+<end>2355</end>
+  </programme>
+  <programme>
+<desc>Murderhawk Lance Archer makes his in-ring AEW debut and tensions continue to build between AEW World Champion Jon Moxley and The Inner Circle's Jake Hager. S1 Ep26</desc>
+<start>2355</start>
+<title>All Elite Wrestling: Dynamite</title>
+<end>0045</end>
+  </programme>
+  <programme>
+<end>0300</end>
+<title>Ideal World</title>
+<start>0045</start>
+<desc>Join Ideal World on ITV for some of the best offers and products on TV. To see more go to www.idealworld.tv.</desc>
+  </programme>
+  <programme>
+<desc>Contestants compete for cash against their own heartbeat. Each contestant competes in several rounds accumulating as much cash as possible before their heart beats expire. [SL] S2 Ep1</desc>
+<start>0300</start>
+<title>1000 Heartbeats</title>
+<end>0350</end>
+  </programme>
+  <programme>
+<title>ITV Nightscreen</title>
+<end>0505</end>
+<desc>Text-based information service.</desc>
+<start>0350</start>
+  </programme>
+  <programme>
+<desc>Adil is in court to claim what he is owed on a loan he made to his friend. Corene is in court to claim for the outstanding amount owed on various loans. [SL] S5 Ep8</desc>
+<subtitle>Adil v Raees</subtitle>
+<start>0505</start>
+<title>Judge Rinder</title>
+<end>0600</end>
+  </programme>
+  <programme>
+<title>Good Morning Britain</title>
+<end>0900</end>
+<desc>Breakfast show featuring the latest news, sport and weather.</desc>
+<start>0600</start>
+  </programme>
+</channel>

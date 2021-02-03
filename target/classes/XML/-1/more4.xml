@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Wed Apr  1 07:22:46 2020 -->
+<channel id="more4" source="XMLTV" date="06/04/2020">
+  <programme>
+<end>0700</end>
+<title>Teleshopping</title>
+<start>0340</start>
+<desc>Teleshopping.</desc>
+  </programme>
+  <programme>
+<desc>Teleshopping.</desc>
+<start>0700</start>
+<title>Teleshopping</title>
+<end>0855</end>
+  </programme>
+  <programme>
+<title>Kirstie's Vintage Gems</title>
+<end>0915</end>
+<desc>Kirstie Allsopp demonstrates how to make a personalised vintage doormat and cute coasters using spray paint, old tiles and serviettes.</desc>
+<start>0855</start>
+  </programme>
+  <programme>
+<title>A Place in the Sun: Winter Sun</title>
+<end>1005</end>
+<desc>Liz and Grahame saved hard so they can buy their dream holiday home in Lanzarote. Jasmine Harman shows them what they can buy for their £63,000 cash budget.</desc>
+<start>0915</start>
+  </programme>
+  <programme>
+<start>1005</start>
+<desc>Daniel Halley and Emma Greenfield want to find out what £73,000 can buy them on the Canary Island of Fuerteventura. Jasmine Harman shows them a selection of what's on the market.</desc>
+<end>1105</end>
+<title>A Place in the Sun: Winter Sun</title>
+  </programme>
+  <programme>
+<desc>Henry Cole and Simon O'Brien travel around looking for items to fix up and flog on. In this show, items include a pair of battlefield telephones and some Gothic church windows. (S2 Ep1/25)</desc>
+<start>1105</start>
+<title>Find It, Fix It, Flog It</title>
+<end>1210</end>
+  </programme>
+  <programme>
+<end>1315</end>
+<title>Find It, Fix It, Flog It</title>
+<start>1210</start>
+<desc>In Wales, Henry Cole and Simon O'Brien pick up and restore a dentist's table and a barber's chair. And they make a coffee table out of parquet flooring. (S2 Ep9/25)</desc>
+  </programme>
+  <programme>
+<title>Escape to the Chateau: DIY</title>
+<end>1420</end>
+<desc>Tim and Rebecca secure their first winter guests. Amy and Marc plan to turn their chateau into a B&amp;B and yoga retreat. Ben and Billie start renovating their final untouched room. (S3 Ep1)</desc>
+<start>1315</start>
+  </programme>
+  <programme>
+<desc>The first visit of the week is to the Oxenham Arms in Devon, where there's broom dancing in the afternoon, and feedback from one guest gets hosts Simon and Lyn looking for revenge.</desc>
+<start>1420</start>
+<title>Four in a Bed</title>
+<end>1450</end>
+  </programme>
+  <programme>
+<desc>The second visit of the week is to Liverpool, where at Elegant House, owner John Brady feels his unique B&amp;B stands out from the crowd, but his eclectic style isn't to everybody's liking.</desc>
+<start>1450</start>
+<title>Four in a Bed</title>
+<end>1520</end>
+  </programme>
+  <programme>
+<start>1520</start>
+<desc>The competition continues in Monmouthshire, Wales, where at Hidden Valley Yurts, Peter and Amanda want to give their guests a taste of the great outdoors, but not everybody's up for it.</desc>
+<end>1550</end>
+<title>Four in a Bed</title>
+  </programme>
+  <programme>
+<title>Four in a Bed</title>
+<end>1625</end>
+<desc>The final visit is to The Cley Hall in Spalding, Lincolnshire, where there's clock-watching over breakfast, and owner David Stanbridge is left fuming by some of the guests' comments.</desc>
+<start>1550</start>
+  </programme>
+  <programme>
+<end>1655</end>
+<title>Four in a Bed</title>
+<start>1625</start>
+<desc>It's the last day of the competition and tensions run high as the payments are revealed and the winner is announced. Simon and Lyn want answers, and David is not awash with praise.</desc>
+  </programme>
+  <programme>
+<end>1755</end>
+<title>A New Life in the Sun</title>
+<start>1655</start>
+<desc>A husband and wife race to open a seafood restaurant in Spain. A couple from London escape the rat race in rural France. And can a traditional pub on the Costa del Sol pull in the punters?</desc>
+  </programme>
+  <programme>
+<desc>In Derbyshire, the boys collect Matt's 1999 Subaru Impreza Turbo 2000, a Japanese all-wheel drive monster tamed by a serious dose of rust. (S6 Ep8/10)</desc>
+<subtitle>Subaru Impreza</subtitle>
+<start>1755</start>
+<title>Car S.O.S</title>
+<end>1855</end>
+  </programme>
+  <programme>
+<start>1855</start>
+<desc>Amy and Marc make an eco-friendly sewage system. Tim and Rebecca create their first family suite, and Ben and Billie go fossil hunting and visit Angel for advice. (S3 Ep2)</desc>
+<end>1955</end>
+<title>Escape to the Chateau: DIY</title>
+  </programme>
+  <programme>
+<end>2100</end>
+<title>Grand Designs</title>
+<start>1955</start>
+<desc>In south east London, Beth and Andrew rescue a crumbling Victorian dairy, hoping to make it into a shabby chic family home fit for modern life. But is the building too derelict? (Ep5)</desc>
+  </programme>
+  <programme>
+<start>2100</start>
+<desc>Brand new series - Ford Escort Mexico: Tim and Fuzz head to Jersey to take on Gary's Escort. His dream of owning a showstopper was shattered when he was diagnosed with leukaemia. (S7 Ep9)</desc>
+<end>2200</end>
+<title>New: Car S.O.S</title>
+  </programme>
+  <programme>
+<start>2200</start>
+<desc>Jimmy Carr hosts, while Sean Lock and Miles Jupp take on Jon Richardson and Greg Davies. Holly Walsh is in Dictionary Corner in this edition of the words and numbers panel game. (S7 Ep5/17)</desc>
+<end>2305</end>
+<title>8 Out of 10 Cats Does Countdown</title>
+  </programme>
+  <programme>
+<title>24 Hours in A&amp;E</title>
+<end>0005</end>
+<desc>This episode features an elderly couple injured by a motorbike, and an actor who's broken his shoulder while rushing for the train, but is needed on stage the same night. (S9 Ep3/8)</desc>
+<start>2305</start>
+  </programme>
+  <programme>
+<end>0105</end>
+<title>Car S.O.S</title>
+<start>0005</start>
+<desc>Brand new series - Ford Escort Mexico: Tim and Fuzz head to Jersey to take on Gary's Escort. His dream of owning a showstopper was shattered when he was diagnosed with leukaemia. (S7 Ep9)</desc>
+  </programme>
+  <programme>
+<desc>Gordon Ramsay tackles a struggling seafood restaurant in Manhattan. The Black Pearl is hampered by debts, kitchen problems and three owners who all want to run things their way.</desc>
+<start>0105</start>
+<title>Ramsay's Kitchen Nightmares USA</title>
+<end>0205</end>
+  </programme>
+  <programme>
+<desc>This episode features an elderly couple injured by a motorbike, and an actor who's broken his shoulder while rushing for the train, but is needed on stage the same night. (S9 Ep3/8)</desc>
+<start>0205</start>
+<title>24 Hours in A&amp;E</title>
+<end>0310</end>
+  </programme>
+  <programme>
+<title>Food Unwrapped</title>
+<end>0340</end>
+<desc>Jimmy Doherty asks what offers better value: growing your own fruit and veg or buying from the supermarket? Plus, investigating the illegal trafficking of eels, and ginger beer. (S17 Ep1)</desc>
+<start>0310</start>
+  </programme>
+  <programme>
+<end>0700</end>
+<title>Teleshopping</title>
+<start>0340</start>
+<desc>Teleshopping.</desc>
+  </programme>
+</channel>

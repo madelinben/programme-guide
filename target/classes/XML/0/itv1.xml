@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Thu Apr  2 07:22:27 2020 -->
+<channel id="itv1_hd" source="Sky" date="07/04/2020">
+  <programme>
+<end>0900</end>
+<title>Good Morning Britain</title>
+<desc>Breakfast show featuring the latest news, sport and weather.</desc>
+<start>0600</start>
+  </programme>
+  <programme>
+<desc>Lorraine Kelly joins the GMB team for an extra hour of Good Morning Britain, featuring the latest news, sport and weather.</desc>
+<start>0900</start>
+<end>1000</end>
+<title>Good Morning Britain with Lorraine</title>
+  </programme>
+  <programme>
+<start>1000</start>
+<desc>The This Morning team bring you top celebrity guests, lifestyle advice, stunning competitions and award-winning features, all topped off with a sprinkle of humour for good measure.</desc>
+<title>This Morning</title>
+<end>1230</end>
+  </programme>
+  <programme>
+<end>1330</end>
+<title>Loose Women</title>
+<desc>Ruth Langsford, Eamonn Holmes, Joe Swash and Stacey Solomon make up the Loose Women panel for this episode, talking about the secrets to a happy marriage.</desc>
+<start>1230</start>
+  </programme>
+  <programme>
+<end>1355</end>
+<title>ITV Lunchtime News</title>
+<start>1330</start>
+<desc>The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.</desc>
+  </programme>
+  <programme>
+<end>1400</end>
+<title>ITV News London</title>
+<start>1355</start>
+<desc>The latest news and weather from London and the South East.</desc>
+  </programme>
+  <programme>
+<desc>...Highlands. Cornwall: James returns to one of his favourite places in the UK - the beautiful county of Cornwall. Joining him is his close pal and Michelin-starred chef Galton Blackiston. S1 Ep2</desc>
+<start>1400</start>
+<title>New: James Martin's Islands to...</title>
+<end>1500</end>
+  </programme>
+  <programme>
+<end>1600</end>
+<title>Tenable</title>
+<subtitle>The Bowl Shebang</subtitle>
+<start>1500</start>
+<desc>Five members of a Surrey bowling club answer Top 10 list questions and attempt to top the Tenable tower to win a big cash prize. Quiz show hosted by Warwick Davis. S4 Ep14</desc>
+  </programme>
+  <programme>
+<title>Tipping Point</title>
+<end>1700</end>
+<desc>Ben Shephard hosts the quiz show in which four players take on an extraordinary machine in the hope of winning the 10,000 pound jackpot. S9 Ep22</desc>
+<start>1600</start>
+  </programme>
+  <programme>
+<title>The Chase</title>
+<end>1800</end>
+<start>1700</start>
+<desc>Quiz show hosted by Bradley Walsh. Four contestants must pit their wits against the Chaser, a ruthless quiz genius determined to stop them winning the cash prize. S10 Ep47</desc>
+  </programme>
+  <programme>
+<end>1830</end>
+<title>ITV News London</title>
+<desc>The latest news and weather from London and the South East.</desc>
+<start>1800</start>
+  </programme>
+  <programme>
+<end>1900</end>
+<title>ITV Evening News</title>
+<start>1830</start>
+<desc>National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.</desc>
+  </programme>
+  <programme>
+<end>1930</end>
+<title>New: You've Been Framed!</title>
+<start>1900</start>
+<desc>A girl drops a full spaghetti bolognaise over her iPad, a dashcam captures a tree almost crushing a car and a selfie is spoiled by a naked photo-bomber's bum. S30 Ep9</desc>
+  </programme>
+  <programme>
+<start>1930</start>
+<desc>...Julia Bradbury. Countryside Walk: Sandstone Trail, Cheshire: Julia Bradbury travels through the rolling plains of Cheshire on a walk for dog-walkers and sports folk alike. Ep4/8</desc>
+<end>2000</end>
+<title>Britain's Best Walks with...</title>
+  </programme>
+  <programme>
+<start>2000</start>
+<desc>...Robson Green. North Devon: Robson Green visits the shores of North Devon, the location of some of his most precious childhood holidays, stopping off at Ilfracombe, Clovelly and the tiny island of L</desc>
+<end>2100</end>
+<title>Tales from the Coast with...</title>
+  </programme>
+  <programme>
+<start>2100</start>
+<desc>Seventy five years after its liberation by British troops, Jonathan Dimbleby returns to the site of the Bergen-Belsen concentration camp in Germany.</desc>
+<title>New: Return to Belsen</title>
+<end>2200</end>
+  </programme>
+  <programme>
+<end>2230</end>
+<title>ITV News at Ten</title>
+<start>2200</start>
+<desc>ITV News at Ten provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+  </programme>
+  <programme>
+<desc>The latest news and weather from London and the South East.</desc>
+<start>2230</start>
+<end>2245</end>
+<title>ITV News London</title>
+  </programme>
+  <programme>
+<title>Gordon, Gino and Fred:...</title>
+<end>2355</end>
+<start>2245</start>
+<desc>...American Road Trip. The Three Amigos: Having been to Mexico before filming An Italian In Mexico, Gino thinks he can show off some culinary nous to Gordon and Fred. S2 Ep1</desc>
+  </programme>
+  <programme>
+<title>Kate and Koji</title>
+<end>0020</end>
+<desc>Episode 3 - The Claim: Despite Kate being sued after an accident in the cafe, she refuses to back down and Koji is reluctant to get involved. S1 Ep3</desc>
+<start>2355</start>
+  </programme>
+  <programme>
+<title>Belgravia</title>
+<end>0110</end>
+<start>0020</start>
+<desc>John appeals to members of the Trenchard's staff for assistance in his bid to uncover the truth about Charles. Turton and Ellis become adept at deceit and spying. S1 Ep4</desc>
+  </programme>
+  <programme>
+<desc>Join Ideal World on ITV for some of the best offers and products on TV. To see more go to www.idealworld.tv.</desc>
+<start>0110</start>
+<title>Ideal World</title>
+<end>0300</end>
+  </programme>
+  <programme>
+<title>Barging Round Britain with John...</title>
+<end>0325</end>
+<start>0300</start>
+<desc>...Sergeant. Peak Forest Canal: John Sergeant travels along the Peak Forest Canal, and along the way helps to make Refreshers at the Swizzles sweet factory. [SL] Ep1</desc>
+  </programme>
+  <programme>
+<end>0505</end>
+<title>ITV Nightscreen</title>
+<start>0325</start>
+<desc>Text-based information service.</desc>
+  </programme>
+  <programme>
+<title>Judge Rinder</title>
+<end>0600</end>
+<desc>Stephen is in court to claim 1,529 pounds from a friend for damaging his DJ equipment during a gig. Defendant Robbie admits he is responsible but cannot afford to pay. [SL] S7 Ep79</desc>
+<start>0505</start>
+<subtitle>Stephen v Robbie</subtitle>
+  </programme>
+  <programme>
+<end>0900</end>
+<title>Good Morning Britain</title>
+<start>0600</start>
+<desc>Breakfast show featuring the latest news, sport and weather.</desc>
+  </programme>
+</channel>

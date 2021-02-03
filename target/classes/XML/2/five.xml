@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Sat Apr  4 07:19:18 2020 -->
+<channel id="five" source="XMLTV" date="09/04/2020">
+  <programme>
+<start>0600</start>
+<desc>This is Channel 5HD</desc>
+<title>This is Channel 5HD</title>
+<end>0630</end>
+  </programme>
+  <programme>
+<end>0700</end>
+<title>This is Channel 5HD</title>
+<start>0630</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<start>0700</start>
+<desc>This is Channel 5HD</desc>
+<end>0730</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<start>0730</start>
+<desc>This is Channel 5HD</desc>
+<end>0800</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<end>0830</end>
+<title>This is Channel 5HD</title>
+<start>0800</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<start>0830</start>
+<desc>This is Channel 5HD</desc>
+<title>This is Channel 5HD</title>
+<end>0900</end>
+  </programme>
+  <programme>
+<desc>This is Channel 5HD</desc>
+<start>0900</start>
+<end>0930</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<start>0930</start>
+<desc>This is Channel 5HD</desc>
+<end>1000</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<desc>This is Channel 5HD</desc>
+<start>1000</start>
+<title>This is Channel 5HD</title>
+<end>1030</end>
+  </programme>
+  <programme>
+<end>1100</end>
+<title>This is Channel 5HD</title>
+<start>1030</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<end>1130</end>
+<title>This is Channel 5HD</title>
+<start>1100</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<end>1200</end>
+<title>This is Channel 5HD</title>
+<start>1130</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<start>1200</start>
+<desc>This is Channel 5HD</desc>
+<end>1230</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<title>This is Channel 5HD</title>
+<end>1300</end>
+<start>1230</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<start>1300</start>
+<desc>This is Channel 5HD</desc>
+<title>This is Channel 5HD</title>
+<end>1330</end>
+  </programme>
+  <programme>
+<desc>This is Channel 5HD</desc>
+<start>1330</start>
+<title>This is Channel 5HD</title>
+<end>1400</end>
+  </programme>
+  <programme>
+<start>1400</start>
+<desc>This is Channel 5HD</desc>
+<end>1430</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<end>1500</end>
+<title>This is Channel 5HD</title>
+<start>1430</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<start>1500</start>
+<desc>This is Channel 5HD</desc>
+<end>1530</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<start>1530</start>
+<desc>This is Channel 5HD</desc>
+<end>1600</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<title>This is Channel 5HD</title>
+<end>1630</end>
+<desc>This is Channel 5HD</desc>
+<start>1600</start>
+  </programme>
+  <programme>
+<title>This is Channel 5HD</title>
+<end>1700</end>
+<start>1630</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<title>This is Channel 5HD</title>
+<end>1730</end>
+<start>1700</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<desc>This is Channel 5HD</desc>
+<start>1730</start>
+<end>1800</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<start>1800</start>
+<desc>This is Channel 5HD</desc>
+<end>1830</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<start>1830</start>
+<desc>This is Channel 5HD</desc>
+<title>This is Channel 5HD</title>
+<end>1900</end>
+  </programme>
+  <programme>
+<title>This is Channel 5HD</title>
+<end>1930</end>
+<start>1900</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<title>This is Channel 5HD</title>
+<end>2000</end>
+<start>1930</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<desc>This is Channel 5HD</desc>
+<start>2000</start>
+<end>2030</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<end>2100</end>
+<title>This is Channel 5HD</title>
+<desc>This is Channel 5HD</desc>
+<start>2030</start>
+  </programme>
+  <programme>
+<title>This is Channel 5HD</title>
+<end>2130</end>
+<desc>This is Channel 5HD</desc>
+<start>2100</start>
+  </programme>
+  <programme>
+<end>2200</end>
+<title>This is Channel 5HD</title>
+<start>2130</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<desc>This is Channel 5HD</desc>
+<start>2200</start>
+<end>2230</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<end>2300</end>
+<title>This is Channel 5HD</title>
+<desc>This is Channel 5HD</desc>
+<start>2230</start>
+  </programme>
+  <programme>
+<desc>This is Channel 5HD</desc>
+<start>2300</start>
+<title>This is Channel 5HD</title>
+<end>2330</end>
+  </programme>
+  <programme>
+<start>2330</start>
+<desc>This is Channel 5HD</desc>
+<title>This is Channel 5HD</title>
+<end>0000</end>
+  </programme>
+  <programme>
+<desc>This is Channel 5HD</desc>
+<start>0000</start>
+<end>0030</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<start>0030</start>
+<desc>This is Channel 5HD</desc>
+<end>0100</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<end>0130</end>
+<title>This is Channel 5HD</title>
+<desc>This is Channel 5HD</desc>
+<start>0100</start>
+  </programme>
+  <programme>
+<title>This is Channel 5HD</title>
+<end>0200</end>
+<start>0130</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<title>This is Channel 5HD</title>
+<end>0230</end>
+<start>0200</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<start>0230</start>
+<desc>This is Channel 5HD</desc>
+<title>This is Channel 5HD</title>
+<end>0300</end>
+  </programme>
+  <programme>
+<start>0300</start>
+<desc>This is Channel 5HD</desc>
+<title>This is Channel 5HD</title>
+<end>0330</end>
+  </programme>
+  <programme>
+<end>0400</end>
+<title>This is Channel 5HD</title>
+<start>0330</start>
+<desc>This is Channel 5HD</desc>
+  </programme>
+  <programme>
+<end>0430</end>
+<title>This is Channel 5HD</title>
+<desc>This is Channel 5HD</desc>
+<start>0400</start>
+  </programme>
+  <programme>
+<desc>This is Channel 5HD</desc>
+<start>0430</start>
+<title>This is Channel 5HD</title>
+<end>0500</end>
+  </programme>
+  <programme>
+<end>0530</end>
+<title>This is Channel 5HD</title>
+<desc>This is Channel 5HD</desc>
+<start>0500</start>
+  </programme>
+  <programme>
+<start>0530</start>
+<desc>This is Channel 5HD</desc>
+<end>0600</end>
+<title>This is Channel 5HD</title>
+  </programme>
+  <programme>
+<start>0600</start>
+<desc>Animation. Mofy and Sora love Mummy Mouse's strawberry syrup, but wonder if the strange green bottle on the upper shelf contains something even tastier... (S3 Ep 22)</desc>
+<end>0605</end>
+<title>Mofy</title>
+  </programme>
+</channel>

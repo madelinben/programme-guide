@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Fri Apr  3 07:19:05 2020 -->
+<channel id="bbc2" source="XMLTV" date="08/04/2020">
+  <programme>
+<title>This is BBC Two</title>
+<desc>Highlights of programmes BBC Two.</desc>
+<start>0330</start>
+<end>0630</end>
+  </programme>
+  <programme>
+<start>0630</start>
+<desc>2/10. Mechanics from the AA work through the night to rescue stricken motorists, and a team at Care Call rush to provide emergency support to clients with various problems. Also in HD. [S]</desc>
+<end>0700</end>
+<title>Night Force</title>
+  </programme>
+  <programme>
+<title>Homes Under the Hammer</title>
+<end>0800</end>
+<desc>1/30. Featuring a semi in Claygate in Surrey, a terrace in Willenhall in the West Midlands and a bungalow in Ashton-on-Ribble in Lancashire. Also in HD. [S]</desc>
+<start>0700</start>
+  </programme>
+  <programme>
+<title>Great British Railway Journeys</title>
+<end>0830</end>
+<desc>Michael Portillo visits the headquarters of an international horse welfare organization. Also in HD. [S,AD,SL]</desc>
+<start>0800</start>
+  </programme>
+  <programme>
+<desc>Archaeologist Ben Robinson discovers the surprising story of this former medieval port on the Suffolk coast. Also in HD. [S,SL]</desc>
+<start>0830</start>
+<end>0900</end>
+<title>Villages by the Sea</title>
+  </programme>
+  <programme>
+<title>The Sweet Makers: A Victorian...</title>
+<desc>...Treat. 3/3. Four modern-day confectioners use original recipes to recreate a Victorian sweet shop. The sweet makers are in their own workshop in Blists Hill, Shropshire. Also in HD. [S,AD]</desc>
+<start>0900</start>
+<end>1000</end>
+  </programme>
+  <programme>
+<end>1300</end>
+<start>1000</start>
+<desc>Twenty-four hours a day, the latest national and international stories as they break. Also in HD. [S]</desc>
+<title>BBC News</title>
+  </programme>
+  <programme>
+<end>1345</end>
+<start>1300</start>
+<desc>3/15. Paul Martin presents the ultimate test in vintage and collectables. With £1,000 at stake in the Curiosity Shop, who will curate the most valuable collection? Also in HD. [S]</desc>
+<title>Curiosity</title>
+  </programme>
+  <programme>
+<desc>3/3. The expedition culminates in South America, where the nocturnal hunting behaviour of the puma is filmed, and a vampire bat's feeding secrets are revealed. Also in HD. [S,AD]</desc>
+<start>1345</start>
+<end>1445</end>
+<title>The Dark: Nature's Nighttime World</title>
+  </programme>
+  <programme>
+<desc>Sylvia Syms explores the BBC's archives and chooses a selection of rarely seen interviews that tell the story of the acting stars who made 60s Britain swing. Also in HD. [S]</desc>
+<start>1445</start>
+<end>1525</end>
+<title>60s Icons: Talking Pictures</title>
+  </programme>
+  <programme>
+<start>1525</start>
+<desc>Ealing comedy about a village's battle to save their railway line. With Stanley Holloway. Also in HD. [1953] [S]</desc>
+<end>1645</end>
+<title>The Titfield Thunderbolt</title>
+<type>Film</type>
+  </programme>
+  <programme>
+<desc>Jeremy Vine hosts the show where every day a new team of challengers take on probably the greatest quiz team in Britain. Can today's challengers triumph? Also in HD. [S]</desc>
+<start>1645</start>
+<end>1715</end>
+<title>Eggheads</title>
+  </programme>
+  <programme>
+<title>Flog It!</title>
+<start>1715</start>
+<desc>49/60. Today Flog It! comes from the Boconnoc estate in the Cornish countryside, where expert Jonathan Pratt uncovers a dinosaur egg that could date back 80 million years. Also in HD. [S]</desc>
+<end>1800</end>
+  </programme>
+  <programme>
+<title>Richard Osman's House of Games</title>
+<desc>23/50. Richard Osman hosts as actress Chizzy Akudolu, author and comedian Charlie Higson, historian Kate Williams and comedian Tom Allen test their general knowledge skills. Also in HD. [S]</desc>
+<start>1800</start>
+<end>1830</end>
+  </programme>
+  <programme>
+<title>Animal Park</title>
+<end>1900</end>
+<desc>8/15. Behind the scenes at Longleat. There is trouble in Wolf Wood as one of the six cubs is seriously injured by the rest of the pack and must go into isolation for her own safety. Also in HD. [S]</desc>
+<start>1830</start>
+  </programme>
+  <programme>
+<start>1900</start>
+<desc>...Adventure. 4/6. The bikers are in southern France on a historical food trail with passionate locals. Also in HD. [S,AD]</desc>
+<end>2000</end>
+<title>Hairy Bikers' Mediterranean...</title>
+  </programme>
+  <programme>
+<title>Great British Menu</title>
+<start>2000</start>
+<desc>Four chefs compete for Northern Ireland with a starter inspired by CS Lewis and an Enid Blyton fish course. Veteran Tom Aikens sends one chef home at the end of the day. Also in HD. [S]</desc>
+<end>2100</end>
+  </programme>
+  <programme>
+<title>The Countess and the Russian...</title>
+<end>2200</end>
+<desc>...Billionaire. Inside the secret world of Sergei Pugachev, a Russian oligarch, and his British partner Countess Alexandra Tolstoy, mother to their three children. Also in HD. [S,AD]</desc>
+<start>2100</start>
+  </programme>
+  <programme>
+<title>Mister Winner</title>
+<desc>3/6. Leslie has a job interview but soon realises he has forgotten one rather crucial thing. Also in HD. [S,AD]</desc>
+<start>2200</start>
+<end>2230</end>
+  </programme>
+  <programme>
+<end>2245</end>
+<desc>3/9. Highlights from the satirical show that brings you everything that has and hasn't happened this week. Contains some strong language. Also in HD. [S]</desc>
+<start>2230</start>
+<title>The Mini Mash Report</title>
+  </programme>
+  <programme>
+<end>2325</end>
+<desc>The day's important national and international news stories with Emily Maitlis. Also in HD. [S]</desc>
+<start>2245</start>
+<title>Newsnight</title>
+  </programme>
+  <programme>
+<title>Weather</title>
+<desc>Weather bulletin. Also in HD. [S]</desc>
+<start>2325</start>
+<end>2330</end>
+  </programme>
+  <programme>
+<end>0030</end>
+<start>2330</start>
+<desc>More nervous entrepreneurs face the fiercest line-up in business. Hoping they are the right fit for the Dragons are a couple with an ergonomic underwear range for men. Also in HD. [S,AD]</desc>
+<title>Dragons' Den</title>
+  </programme>
+  <programme>
+<title>Race Across the World</title>
+<end>0130</end>
+<start>0030</start>
+<desc>3/9. Complications arise when a state of emergency is declared at the teams' next checkpoint. Also in HD. [S,AD,SL]</desc>
+  </programme>
+  <programme>
+<title>Hospital</title>
+<end>0230</end>
+<desc>6/8. At the UK's only specialist neurology hospital Trust, a doctor strives to secure groundbreaking treatment for patients with a misunderstood but common neurological disorder. Also in HD. [S,SL]</desc>
+<start>0130</start>
+  </programme>
+  <programme>
+<title>Saved on Camera</title>
+<end>0300</end>
+<start>0230</start>
+<desc>4/10. A couple on a mission to save rhinos end up being saved themselves. Also in HD. [S,SL]</desc>
+  </programme>
+  <programme>
+<desc>Highlights of programmes BBC Two.</desc>
+<start>0300</start>
+<end>0645</end>
+<title>This is BBC Two</title>
+  </programme>
+</channel>

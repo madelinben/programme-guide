@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- produced for the bleb.org TV system at Fri Apr  3 09:45:06 2020 -->
+<channel id="p_itv2" source="XMLTV" date="09/04/2020">
+  <programme>
+<start>0330</start>
+<end>0700</end>
+<title>Teleshopping</title>
+<desc>Shopping from home.</desc>
+  </programme>
+  <programme>
+<title>The Ellen DeGeneres Show</title>
+<desc>Ellen is joined in the studio by chat show royalty Oprah Winfrey. Plus, Lil Nas X talks to the host, before performing Panini. S17 Ep10</desc>
+<start>0700</start>
+<end>0750</end>
+  </programme>
+  <programme>
+<desc>Malone puts Billy in a difficult position. Belle and Jamie have an awkward moment. Dawn worries Billy is avoiding her.</desc>
+<title>Emmerdale</title>
+<end>0820</end>
+<start>0750</start>
+  </programme>
+  <programme>
+<end>0850</end>
+<start>0820</start>
+<desc>Chesney is horrified when Gemma abandons their babies. The return of Rick's daughter Kelly rattles Gary. Yasmeen consults the police about Geoff's past.</desc>
+<title>Coronation Street</title>
+  </programme>
+  <programme>
+<title>You've Been Framed! Gold</title>
+<desc>Harry Hill narrates more wacky videos. Dogs reveal where they stand on Europe, while Harry plots to spread verrucas across the UK. S26 Ep9</desc>
+<start>0850</start>
+<end>0920</end>
+  </programme>
+  <programme>
+<title>Superstore</title>
+<subtitle>Golden Globes Party</subtitle>
+<desc>Amy organises a post-divorce party with Dina and Jonah's help. Glenn and Jerusha confront some personal issues. S3 Ep9</desc>
+<start>0920</start>
+<end>0950</end>
+  </programme>
+  <programme>
+<end>1015</end>
+<start>0950</start>
+<desc>Cheyenne can't figure out how to back out after accidentally agreeing to be a surrogate for Glenn and his wife. Meanwhile, Jonah takes Amy and Dina on a mission. S3 Ep10</desc>
+<subtitle>High Volume Store</subtitle>
+<title>Superstore</title>
+  </programme>
+  <programme>
+<start>1015</start>
+<end>1115</end>
+<subtitle>Will</subtitle>
+<title>Dinner Date</title>
+<desc>Dating series with a delicious twist. Will from Essex dines with three lucky ladies, but which one will he come back to for seconds? S5 Ep2</desc>
+  </programme>
+  <programme>
+<subtitle>Jess</subtitle>
+<title>Dress To Impress</title>
+<desc>Fashion-themed dating series. Three more singletons compete in a series of shopping challenges in Cardiff to win the affections of sweet shop worker Jess. S1 Ep15</desc>
+<start>1115</start>
+<end>1215</end>
+  </programme>
+  <programme>
+<end>1245</end>
+<start>1215</start>
+<desc>Malone puts Billy in a difficult position. Belle and Jamie have an awkward moment. Dawn worries Billy is avoiding her.</desc>
+<title>Emmerdale</title>
+  </programme>
+  <programme>
+<end>1320</end>
+<start>1245</start>
+<desc>Chesney is horrified when Gemma abandons their babies. The return of Rick's daughter Kelly rattles Gary. Yasmeen consults the police about Geoff's past.</desc>
+<title>Coronation Street</title>
+  </programme>
+  <programme>
+<desc>Harry Hill skewers the world's funniest home videos. A tiny archaeologist digs up more than anyone bargained for, and an eating competition unveils the answer to childhood obesity. S26 Ep10</desc>
+<title>You've Been Framed! Gold</title>
+<end>1350</end>
+<start>1320</start>
+  </programme>
+  <programme>
+<title>The Ellen DeGeneres Show</title>
+<subtitle>The host is joined by Demi Moore, who talks about Inside Out</subtitle>
+<desc>A Memoir. Plus, Lenny Kravitz discusses the devastation Hurricane Dorian caused in the Bahamas. S17 Ep11</desc>
+<start>1350</start>
+<end>1450</end>
+  </programme>
+  <programme>
+<end>1550</end>
+<start>1450</start>
+<desc>Culinary dating show. Emma from London chooses three dates from five menus. When the dinners have been eaten and the dates are done, who will she want to see for seconds? S5 Ep3</desc>
+<title>Dinner Date</title>
+<subtitle>Emma</subtitle>
+  </programme>
+  <programme>
+<desc>Dating series with a difference. Three singletons try to win the affections of former goth Dom by each buying him an outfit. Whose choice will win them a prized date? S1 Ep3</desc>
+<title>Dress To Impress</title>
+<subtitle>Dom</subtitle>
+<end>1655</end>
+<start>1550</start>
+  </programme>
+  <programme>
+<start>1655</start>
+<end>1755</end>
+<title>You've Been Framed! Gold: Full...</title>
+<desc>...Throttle. Harry Hill unleashes some of the best clips from the archive, featuring thrill-seekers, show-offs and some really, really stupid men. S24 Ep23</desc>
+  </programme>
+  <programme>
+<title>Casper</title>
+<desc>Family movie starring Christina Ricci, 1995. Based on the popular cartoon character, this family-oriented 'ghost story' is about a not-so-scary spirit who bonds with a little girl.</desc>
+<type>Film</type>
+<start>1755</start>
+<end>1855</end>
+  </programme>
+  <programme>
+<start>1855</start>
+<end>1900</end>
+<title>FYI Daily</title>
+<desc>The latest news from the world of entertainment.</desc>
+  </programme>
+  <programme>
+<end>2000</end>
+<type>Film</type>
+<start>1900</start>
+<desc>Family movie starring Christina Ricci, 1995. Based on the popular cartoon character, this family-oriented 'ghost story' is about a not-so-scary spirit who bonds with a little girl.</desc>
+<title>Casper</title>
+  </programme>
+  <programme>
+<desc>Walden fears that breaking up with Ms McMartin will jeopardise his adoption of Louis. Meanwhile, Alan hesitates when Lyndsey asks him to move in with her. S12 Ep13</desc>
+<title>Two and a Half Men</title>
+<subtitle>Boompa Loved His H*****s</subtitle>
+<end>2030</end>
+<start>2000</start>
+  </programme>
+  <programme>
+<desc>US comedy series. Walden offers Alan the gift of his choice after they sign their divorce papers, only for Alan to choose something selfish and impractical. S12 Ep14</desc>
+<subtitle>Don't Give A Monkey A Gun</subtitle>
+<title>Two and a Half Men</title>
+<end>2100</end>
+<start>2030</start>
+  </programme>
+  <programme>
+<start>2100</start>
+<end>2130</end>
+<title>Family Guy</title>
+<subtitle>Stewie Is Enceinte</subtitle>
+<desc>Stewie tries to get closer to Brian by impregnating himself with his DNA. Peter and the guys attempt to make a viral internet video. S13 Ep13</desc>
+  </programme>
+  <programme>
+<end>2200</end>
+<start>2130</start>
+<desc>US animated series. Meg becomes popular at her new job as she is the most attractive woman there. Cleveland gives Peter and Lois relationship advice. S13 Ep14</desc>
+<title>Family Guy</title>
+<subtitle>Dr C and the Women</subtitle>
+  </programme>
+  <programme>
+<start>2200</start>
+<end>2250</end>
+<title>New: Celebrity Juice</title>
+<desc>Keith Lemon welcomes guests AJ and Curtis Pritchard, Will Mellor, Emily Atack and Nadine Coyle, alongside captains Holly Willoughby and Mel B. S23 Ep1</desc>
+  </programme>
+  <programme>
+<desc>US animated series. Peter becomes a town hero for accidentally finding a missing boy. Joe decides to quit his job and travel to the Niagara Falls. S13 Ep15</desc>
+<subtitle>Jolo</subtitle>
+<title>Family Guy</title>
+<end>2315</end>
+<start>2250</start>
+  </programme>
+  <programme>
+<start>2315</start>
+<end>2345</end>
+<title>Family Guy</title>
+<subtitle>Brian the Closer</subtitle>
+<desc>Animated comedy. Brian's cosmetic dental surgery leads him down a new career path as a real estate agent, which gets him into trouble with Quagmire. S13 Ep4</desc>
+  </programme>
+  <programme>
+<end>0015</end>
+<start>2345</start>
+<desc>Animated comedy. Francine's sister arrives at the house but is soon up to no good. As Stan teaches Steve the art of hugging, Klaus shadows Roger's dramatic comments. S11 Ep8</desc>
+<subtitle>Now and Gwen</subtitle>
+<title>American Dad!</title>
+  </programme>
+  <programme>
+<start>0015</start>
+<end>0045</end>
+<subtitle>A Boy Named Michael</subtitle>
+<title>American Dad!</title>
+<desc>Animated comedy series. Greg and Terry adopt a Russian child, but when Roger sees the life they are leading, he decides to kidnap the child and take its place. S11 Ep2</desc>
+  </programme>
+  <programme>
+<title>Two and a Half Men</title>
+<subtitle>Boompa Loved His H*****s</subtitle>
+<desc>Walden fears that breaking up with Ms McMartin will jeopardise his adoption of Louis. Meanwhile, Alan hesitates when Lyndsey asks him to move in with her. S12 Ep13</desc>
+<start>0045</start>
+<end>0110</end>
+  </programme>
+  <programme>
+<end>0135</end>
+<start>0110</start>
+<desc>US comedy series. Walden offers Alan the gift of his choice after they sign their divorce papers, only for Alan to choose something selfish and impractical. S12 Ep14</desc>
+<title>Two and a Half Men</title>
+<subtitle>Don't Give A Monkey A Gun</subtitle>
+  </programme>
+  <programme>
+<title>Don't Hate the Playaz</title>
+<desc>Captains Maja Jama and Ledy Leshurr are joined by London Hughes, Roman Kemp, Katherine Ryan and the legendary Sugarhill Gang and the Furious 5. Jordan Stephens hosts. S2 Ep1</desc>
+<start>0135</start>
+<end>0225</end>
+  </programme>
+  <programme>
+<desc>The voice of Love Island, Iain Stirling, is joined by a group of contenders eager to take on five celebrities. Guests in this opener include Jennifer Metcalfe and James Argent. S2 Ep1</desc>
+<title>CelebAbility</title>
+<end>0305</end>
+<start>0225</start>
+  </programme>
+  <programme>
+<desc>...World Records. Matt Edmondson looks at entertaining world records. Featuring a human cannonball and the record for the most meatballs eaten in one minute. S1 Ep3</desc>
+<title>Totally Bonkers Guinness...</title>
+<end>0330</end>
+<start>0305</start>
+  </programme>
+  <programme>
+<title>Teleshopping</title>
+<desc>Shopping from home.</desc>
+<start>0330</start>
+<end>0700</end>
+  </programme>
+</channel>
